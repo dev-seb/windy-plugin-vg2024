@@ -2,7 +2,7 @@
   "result": {
     "FRA100": {
       "key": "FRA100",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 100",
       "country": "GBR",
       "skipper": "Sam Goodchild",
@@ -10,26 +10,26 @@
       "boat": "VULNERABLE",
       "rank": 1,
       "abort": false,
-      "heading": 184,
-      "lat_ddm": "11°23.29'N",
-      "lon_ddm": "29°41.84'W",
-      "lat_dec": 11.388166666666667,
-      "lon_dec": -29.697333333333333,
-      "last_30mn_heading": 184,
-      "last_30mn_speed": 23.9,
+      "heading": 186,
+      "lat_ddm": "09°50.82'N",
+      "lon_ddm": "29°45.19'W",
+      "lat_dec": 9.847,
+      "lon_dec": -29.753166666666665,
+      "last_30mn_heading": 186,
+      "last_30mn_speed": 24.2,
       "last_30mn_vmg": 22.9,
-      "last_30mn_distance": 12,
-      "last_24h_distance": 90.4,
-      "last_24h_heading": 179,
-      "last_24h_speed": 22.6,
-      "last_24h_vmg": 22.2,
-      "last_report_distance": 373.1,
-      "last_report_heading": 168,
-      "last_report_speed": 15.5,
-      "last_report_vmg": 15.5,
-      "dtf": 21898.6,
+      "last_30mn_distance": 12.1,
+      "last_24h_distance": 92.6,
+      "last_24h_heading": 182,
+      "last_24h_speed": 23.1,
+      "last_24h_vmg": 22.4,
+      "last_report_distance": 432.2,
+      "last_report_heading": 172,
+      "last_report_speed": 18,
+      "last_report_vmg": 18,
+      "dtf": 21809.1,
       "dtl": 0,
-      "total_time": "9d 5h 28m 0s",
+      "total_time": "9d 9h 28m 0s",
       "progress": "eq",
       "foiler": true,
       "color": "#4BA8A8",
@@ -264,12 +264,16 @@
         [
           11.388166666666667,
           -29.697333333333333
+        ],
+        [
+          9.847,
+          -29.753166666666665
         ]
       ]
     },
     "FRA112": {
       "key": "FRA112",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 112",
       "country": "FRA",
       "skipper": "Sébastien Simon",
@@ -277,27 +281,27 @@
       "boat": "Groupe Dubreuil",
       "rank": 2,
       "abort": false,
-      "heading": 180,
-      "lat_ddm": "12°17.89'N",
-      "lon_ddm": "28°52.39'W",
-      "lat_dec": 12.298166666666667,
-      "lon_dec": -28.873166666666666,
-      "last_30mn_heading": 180,
-      "last_30mn_speed": 26.4,
-      "last_30mn_vmg": 25.9,
-      "last_30mn_distance": 13.2,
-      "last_24h_distance": 96.4,
-      "last_24h_heading": 177,
-      "last_24h_speed": 24.1,
-      "last_24h_vmg": 23.9,
-      "last_report_distance": 341.4,
-      "last_report_heading": 168,
-      "last_report_speed": 14.2,
-      "last_report_vmg": 14.2,
-      "dtf": 21942.1,
-      "dtl": 43.5,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "up",
+      "heading": 174,
+      "lat_ddm": "10°44.53'N",
+      "lon_ddm": "28°53.12'W",
+      "lat_dec": 10.742166666666666,
+      "lon_dec": -28.88533333333333,
+      "last_30mn_heading": 174,
+      "last_30mn_speed": 22.5,
+      "last_30mn_vmg": 22.4,
+      "last_30mn_distance": 11.2,
+      "last_24h_distance": 93.4,
+      "last_24h_heading": 180,
+      "last_24h_speed": 23.4,
+      "last_24h_vmg": 22.9,
+      "last_report_distance": 419.4,
+      "last_report_heading": 171,
+      "last_report_speed": 17.5,
+      "last_report_vmg": 17.5,
+      "dtf": 21850.7,
+      "dtl": 41.6,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "eq",
       "foiler": true,
       "color": "#12329A",
       "colorFoil": "#FFFFFF",
@@ -531,306 +535,43 @@
         [
           12.298166666666667,
           -28.873166666666666
-        ]
-      ]
-    },
-    "FRA59": {
-      "key": "FRA59",
-      "timestamp": 1732037400000,
-      "sail": "FRA 59",
-      "country": "FRA",
-      "skipper": "Thomas Ruyant",
-      "skipperLink": "https://www.vendeeglobe.org/skippers/thomas-ruyant",
-      "boat": "VULNERABLE",
-      "rank": 3,
-      "abort": false,
-      "heading": 170,
-      "lat_ddm": "11°54.14'N",
-      "lon_ddm": "32°07.54'W",
-      "lat_dec": 11.902333333333333,
-      "lon_dec": -32.12566666666667,
-      "last_30mn_heading": 170,
-      "last_30mn_speed": 24.5,
-      "last_30mn_vmg": 24.4,
-      "last_30mn_distance": 12.2,
-      "last_24h_distance": 86.5,
-      "last_24h_heading": 169,
-      "last_24h_speed": 21.6,
-      "last_24h_vmg": 21.6,
-      "last_report_distance": 345.7,
-      "last_report_heading": 167,
-      "last_report_speed": 14.4,
-      "last_report_vmg": 14.4,
-      "dtf": 21962.9,
-      "dtl": 64.3,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "up",
-      "foiler": true,
-      "color": "#4BA7D3",
-      "colorFoil": "#DC6F3D",
-      "colorMiddle": "#FEFEFE",
-      "colorInside": "#DB6E3D",
-      "track": [
-        [
-          46.4637857,
-          -1.7951899
         ],
         [
-          46.5525,
-          -2.4165
-        ],
-        [
-          46.541,
-          -2.589
-        ],
-        [
-          45.686166666666665,
-          -2.6515
-        ],
-        [
-          45.43866666666667,
-          -3.721166666666667
-        ],
-        [
-          45.0135,
-          -4.711833333333333
-        ],
-        [
-          45.1485,
-          -6.211166666666666
-        ],
-        [
-          44.05,
-          -6.88
-        ],
-        [
-          44.00566666666667,
-          -8.154333333333334
-        ],
-        [
-          43.662,
-          -9.335333333333333
-        ],
-        [
-          42.51383333333333,
-          -9.813666666666666
-        ],
-        [
-          41.69916666666667,
-          -10.139166666666666
-        ],
-        [
-          40.7245,
-          -10.714
-        ],
-        [
-          39.44833333333333,
-          -10.909166666666666
-        ],
-        [
-          38.869166666666665,
-          -12.280166666666666
-        ],
-        [
-          38.1075,
-          -13.261666666666667
-        ],
-        [
-          36.90233333333333,
-          -12.4345
-        ],
-        [
-          35.90683333333333,
-          -12.896333333333333
-        ],
-        [
-          34.92966666666667,
-          -14.057166666666667
-        ],
-        [
-          34.01566666666667,
-          -15.350333333333333
-        ],
-        [
-          33.19233333333333,
-          -16.794
-        ],
-        [
-          32.668166666666664,
-          -18.174333333333333
-        ],
-        [
-          32.028333333333336,
-          -19.792
-        ],
-        [
-          31.335,
-          -20.902833333333334
-        ],
-        [
-          30.387833333333333,
-          -21.816666666666666
-        ],
-        [
-          29.769833333333334,
-          -22.661833333333334
-        ],
-        [
-          29.263333333333332,
-          -23.483666666666668
-        ],
-        [
-          28.809833333333334,
-          -24.097333333333335
-        ],
-        [
-          28.186666666666667,
-          -24.620166666666666
-        ],
-        [
-          27.670166666666667,
-          -25.41133333333333
-        ],
-        [
-          27.560833333333335,
-          -26.171833333333332
-        ],
-        [
-          27.588833333333334,
-          -26.5455
-        ],
-        [
-          27.509166666666665,
-          -26.761
-        ],
-        [
-          27.449,
-          -26.872
-        ],
-        [
-          27.514833333333332,
-          -27.199333333333332
-        ],
-        [
-          27.091,
-          -27.964666666666666
-        ],
-        [
-          26.845333333333333,
-          -29.01
-        ],
-        [
-          26.27316666666667,
-          -29.60333333333333
-        ],
-        [
-          26.051833333333335,
-          -30.363333333333333
-        ],
-        [
-          25.635166666666667,
-          -31.658833333333334
-        ],
-        [
-          25.040666666666667,
-          -32.482166666666664
-        ],
-        [
-          23.893833333333333,
-          -32.159166666666664
-        ],
-        [
-          22.967333333333332,
-          -31.995833333333334
-        ],
-        [
-          22.414166666666667,
-          -32.907833333333336
-        ],
-        [
-          21.47,
-          -32.95333333333333
-        ],
-        [
-          20.348333333333333,
-          -32.909666666666666
-        ],
-        [
-          19.424833333333332,
-          -33.170833333333334
-        ],
-        [
-          18.734166666666667,
-          -33.284666666666666
-        ],
-        [
-          18.324166666666667,
-          -33.289
-        ],
-        [
-          17.856666666666666,
-          -33.2685
-        ],
-        [
-          17.518666666666668,
-          -33.43633333333333
-        ],
-        [
-          17.068,
-          -33.373333333333335
-        ],
-        [
-          16.367333333333335,
-          -33.317
-        ],
-        [
-          15.715833333333334,
-          -33.16683333333334
-        ],
-        [
-          14.735,
-          -32.687333333333335
-        ],
-        [
-          13.316,
-          -32.4145
-        ],
-        [
-          11.902333333333333,
-          -32.12566666666667
+          10.742166666666666,
+          -28.88533333333333
         ]
       ]
     },
     "FRA79": {
       "key": "FRA79",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 79",
       "country": "FRA",
       "skipper": "Charlie Dalin",
       "skipperLink": "https://www.vendeeglobe.org/skippers/charlie-dalin",
       "boat": "MACIF Santé Prévoyance",
-      "rank": 4,
+      "rank": 3,
       "abort": false,
-      "heading": 175,
-      "lat_ddm": "12°19.81'N",
-      "lon_ddm": "30°28.54'W",
-      "lat_dec": 12.330166666666667,
-      "lon_dec": -30.475666666666665,
-      "last_30mn_heading": 175,
-      "last_30mn_speed": 26.4,
-      "last_30mn_vmg": 26.1,
-      "last_30mn_distance": 13.2,
-      "last_24h_distance": 102.2,
-      "last_24h_heading": 173,
-      "last_24h_speed": 25.6,
-      "last_24h_vmg": 25.4,
-      "last_report_distance": 360,
-      "last_report_heading": 172,
-      "last_report_speed": 15,
-      "last_report_vmg": 14.9,
-      "dtf": 21963.9,
-      "dtl": 65.3,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 176,
+      "lat_ddm": "10°42.00'N",
+      "lon_ddm": "30°21.17'W",
+      "lat_dec": 10.7,
+      "lon_dec": -30.352833333333333,
+      "last_30mn_heading": 176,
+      "last_30mn_speed": 23.5,
+      "last_30mn_vmg": 23.2,
+      "last_30mn_distance": 11.8,
+      "last_24h_distance": 98.1,
+      "last_24h_heading": 176,
+      "last_24h_speed": 24.5,
+      "last_24h_vmg": 24.2,
+      "last_report_distance": 418.5,
+      "last_report_heading": 173,
+      "last_report_speed": 17.4,
+      "last_report_vmg": 17.3,
+      "dtf": 21867,
+      "dtl": 57.9,
+      "total_time": "9d 9h 28m 0s",
       "progress": "up",
       "foiler": true,
       "color": "#265BB2",
@@ -1065,307 +806,315 @@
         [
           12.330166666666667,
           -30.475666666666665
+        ],
+        [
+          10.7,
+          -30.352833333333333
         ]
       ]
     },
-    "FRA29": {
-      "key": "FRA29",
-      "timestamp": 1732035600000,
-      "sail": "FRA 29",
+    "FRA59": {
+      "key": "FRA59",
+      "timestamp": 1732051800000,
+      "sail": "FRA 59",
       "country": "FRA",
-      "skipper": "Jean Le Cam",
-      "skipperLink": "https://www.vendeeglobe.org/skippers/jean-le-cam",
-      "boat": "Tout commence en Finistère - Armor-lux",
-      "rank": 5,
+      "skipper": "Thomas Ruyant",
+      "skipperLink": "https://www.vendeeglobe.org/skippers/thomas-ruyant",
+      "boat": "VULNERABLE",
+      "rank": 4,
       "abort": false,
-      "heading": 238,
-      "lat_ddm": "13°18.75'N",
-      "lon_ddm": "23°11.68'W",
-      "lat_dec": 13.3125,
-      "lon_dec": -23.194666666666667,
-      "last_30mn_heading": 238,
-      "last_30mn_speed": 15.8,
-      "last_30mn_vmg": 10.1,
-      "last_30mn_distance": 15.8,
-      "last_24h_distance": 53,
-      "last_24h_heading": 239,
-      "last_24h_speed": 15.1,
-      "last_24h_vmg": 10.1,
-      "last_report_distance": 335.2,
-      "last_report_heading": 222,
-      "last_report_speed": 14,
-      "last_report_vmg": 12.8,
-      "dtf": 21981.4,
-      "dtl": 82.8,
-      "total_time": "9d 4h 58m 0s",
+      "heading": 172,
+      "lat_ddm": "10°22.63'N",
+      "lon_ddm": "31°55.35'W",
+      "lat_dec": 10.377166666666668,
+      "lon_dec": -31.9225,
+      "last_30mn_heading": 172,
+      "last_30mn_speed": 23.8,
+      "last_30mn_vmg": 23.6,
+      "last_30mn_distance": 11.9,
+      "last_24h_distance": 92.4,
+      "last_24h_heading": 173,
+      "last_24h_speed": 23.1,
+      "last_24h_vmg": 22.9,
+      "last_report_distance": 410.5,
+      "last_report_heading": 168,
+      "last_report_speed": 17.1,
+      "last_report_vmg": 17.1,
+      "dtf": 21871.5,
+      "dtl": 62.4,
+      "total_time": "9d 9h 28m 0s",
       "progress": "down",
-      "foiler": false,
-      "color": "#161616",
+      "foiler": true,
+      "color": "#4BA7D3",
       "colorFoil": "#DC6F3D",
-      "colorMiddle": "#3C3C3B",
-      "colorInside": "#E6C42B",
+      "colorMiddle": "#FEFEFE",
+      "colorInside": "#DB6E3D",
       "track": [
         [
           46.4637857,
           -1.7951899
         ],
         [
-          46.448166666666665,
-          -2.282
+          46.5525,
+          -2.4165
         ],
         [
-          46.45333333333333,
-          -2.531833333333333
+          46.541,
+          -2.589
         ],
         [
-          45.695,
-          -2.7055
+          45.686166666666665,
+          -2.6515
         ],
         [
-          45.49616666666667,
-          -3.7721666666666667
+          45.43866666666667,
+          -3.721166666666667
         ],
         [
-          44.97416666666667,
-          -4.565833333333334
+          45.0135,
+          -4.711833333333333
         ],
         [
-          44.99483333333333,
-          -5.933833333333333
+          45.1485,
+          -6.211166666666666
         ],
         [
-          44.586,
-          -6.836
+          44.05,
+          -6.88
         ],
         [
-          43.8975,
-          -7.6515
+          44.00566666666667,
+          -8.154333333333334
         ],
         [
-          43.80533333333333,
-          -8.6885
+          43.662,
+          -9.335333333333333
         ],
         [
-          43.161833333333334,
-          -9.426666666666666
+          42.51383333333333,
+          -9.813666666666666
         ],
         [
-          42.651,
-          -10.239666666666666
+          41.69916666666667,
+          -10.139166666666666
         ],
         [
-          42.179833333333335,
-          -11.313333333333333
+          40.7245,
+          -10.714
         ],
         [
-          41.13766666666667,
-          -11.665
+          39.44833333333333,
+          -10.909166666666666
         ],
         [
-          40.223,
-          -11.961333333333334
+          38.869166666666665,
+          -12.280166666666666
         ],
         [
-          39.369,
-          -12.482
+          38.1075,
+          -13.261666666666667
         ],
         [
-          38.277833333333334,
-          -12.1585
+          36.90233333333333,
+          -12.4345
         ],
         [
-          37.330333333333336,
-          -11.666
+          35.90683333333333,
+          -12.896333333333333
         ],
         [
-          36.3625,
-          -12.409833333333333
+          34.92966666666667,
+          -14.057166666666667
         ],
         [
-          35.50116666666667,
-          -13.4165
+          34.01566666666667,
+          -15.350333333333333
         ],
         [
-          34.67366666666667,
-          -14.386666666666667
+          33.19233333333333,
+          -16.794
         ],
         [
-          33.951,
-          -15.499166666666667
+          32.668166666666664,
+          -18.174333333333333
         ],
         [
-          33.38816666666666,
-          -16.441166666666668
+          32.028333333333336,
+          -19.792
         ],
         [
-          32.9685,
-          -17.39
+          31.335,
+          -20.902833333333334
         ],
         [
-          32.2675,
-          -17.856
+          30.387833333333333,
+          -21.816666666666666
         ],
         [
-          31.577333333333332,
-          -18.1145
+          29.769833333333334,
+          -22.661833333333334
         ],
         [
-          30.803,
-          -18.308333333333334
+          29.263333333333332,
+          -23.483666666666668
         ],
         [
-          30.049833333333332,
-          -18.627166666666668
+          28.809833333333334,
+          -24.097333333333335
         ],
         [
-          29.238166666666668,
-          -18.618333333333332
+          28.186666666666667,
+          -24.620166666666666
         ],
         [
-          28.532666666666668,
-          -18.933333333333334
+          27.670166666666667,
+          -25.41133333333333
         ],
         [
-          27.697666666666667,
-          -19.3465
+          27.560833333333335,
+          -26.171833333333332
         ],
         [
-          26.989833333333333,
-          -19.812833333333334
+          27.588833333333334,
+          -26.5455
         ],
         [
-          26.375333333333334,
-          -20.068666666666665
+          27.509166666666665,
+          -26.761
         ],
         [
-          25.684,
-          -20.101166666666668
+          27.449,
+          -26.872
         ],
         [
-          25.023,
-          -20.342833333333335
+          27.514833333333332,
+          -27.199333333333332
         ],
         [
-          24.4535,
-          -20.7765
+          27.091,
+          -27.964666666666666
         ],
         [
-          24.150833333333335,
-          -21.133666666666667
+          26.845333333333333,
+          -29.01
         ],
         [
-          23.923000000000002,
-          -21.1385
+          26.27316666666667,
+          -29.60333333333333
         ],
         [
-          23.462666666666667,
-          -21.024833333333333
+          26.051833333333335,
+          -30.363333333333333
         ],
         [
-          22.947333333333333,
-          -21.01
+          25.635166666666667,
+          -31.658833333333334
         ],
         [
-          22.439833333333333,
-          -20.85183333333333
+          25.040666666666667,
+          -32.482166666666664
         ],
         [
-          21.930833333333332,
-          -20.862
+          23.893833333333333,
+          -32.159166666666664
         ],
         [
-          21.589166666666667,
-          -20.792
+          22.967333333333332,
+          -31.995833333333334
         ],
         [
-          21.4275,
-          -20.497166666666665
+          22.414166666666667,
+          -32.907833333333336
         ],
         [
-          21.2395,
-          -20.4335
+          21.47,
+          -32.95333333333333
         ],
         [
-          20.9715,
-          -20.0925
+          20.348333333333333,
+          -32.909666666666666
         ],
         [
-          20.479833333333332,
-          -19.89
+          19.424833333333332,
+          -33.170833333333334
         ],
         [
-          20.096333333333334,
-          -19.645166666666668
+          18.734166666666667,
+          -33.284666666666666
         ],
         [
-          19.2895,
-          -19.408666666666665
+          18.324166666666667,
+          -33.289
         ],
         [
-          18.257166666666667,
-          -19.375333333333334
+          17.856666666666666,
+          -33.2685
         ],
         [
-          17.280666666666665,
-          -19.216
+          17.518666666666668,
+          -33.43633333333333
         ],
         [
-          16.479333333333333,
-          -19.887
+          17.068,
+          -33.373333333333335
         ],
         [
-          15.7325,
-          -20.588
+          16.367333333333335,
+          -33.317
         ],
         [
-          15.108,
-          -21.314333333333334
+          15.715833333333334,
+          -33.16683333333334
         ],
         [
-          14.530666666666667,
-          -22.138166666666667
+          14.735,
+          -32.687333333333335
         ],
         [
-          13.763833333333332,
-          -22.414
+          13.316,
+          -32.4145
         ],
         [
-          13.3125,
-          -23.194666666666667
+          11.902333333333333,
+          -32.12566666666667
+        ],
+        [
+          10.377166666666668,
+          -31.9225
         ]
       ]
     },
     "FRA85": {
       "key": "FRA85",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 85",
       "country": "FRA",
       "skipper": "Nicolas Lunven",
       "skipperLink": "https://www.vendeeglobe.org/skippers/nicolas-lunven",
       "boat": "HOLCIM - PRB",
-      "rank": 6,
+      "rank": 5,
       "abort": false,
-      "heading": 170,
-      "lat_ddm": "12°27.72'N",
-      "lon_ddm": "31°11.02'W",
-      "lat_dec": 12.462,
-      "lon_dec": -31.183666666666667,
-      "last_30mn_heading": 170,
-      "last_30mn_speed": 23,
-      "last_30mn_vmg": 22.9,
-      "last_30mn_distance": 11.5,
-      "last_24h_distance": 93.5,
-      "last_24h_heading": 167,
-      "last_24h_speed": 23.4,
-      "last_24h_vmg": 23.4,
-      "last_report_distance": 326.7,
-      "last_report_heading": 169,
-      "last_report_speed": 13.6,
-      "last_report_vmg": 13.6,
-      "dtf": 21981.4,
-      "dtl": 82.8,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "eq",
+      "heading": 177,
+      "lat_ddm": "10°55.22'N",
+      "lon_ddm": "30°53.77'W",
+      "lat_dec": 10.920333333333334,
+      "lon_dec": -30.896166666666666,
+      "last_30mn_heading": 177,
+      "last_30mn_speed": 23.8,
+      "last_30mn_vmg": 23.3,
+      "last_30mn_distance": 11.9,
+      "last_24h_distance": 94.1,
+      "last_24h_heading": 170,
+      "last_24h_speed": 23.5,
+      "last_24h_vmg": 23.5,
+      "last_report_distance": 397.8,
+      "last_report_heading": 170,
+      "last_report_speed": 16.6,
+      "last_report_vmg": 16.5,
+      "dtf": 21887.5,
+      "dtl": 78.4,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "up",
       "foiler": true,
       "color": "#98B747",
       "colorFoil": "#DC6F3D",
@@ -1599,39 +1348,43 @@
         [
           12.462,
           -31.183666666666667
+        ],
+        [
+          10.920333333333334,
+          -30.896166666666666
         ]
       ]
     },
     "FRA24": {
       "key": "FRA24",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 24",
       "country": "FRA",
       "skipper": "Yoann Richomme",
       "skipperLink": "https://www.vendeeglobe.org/skippers/yoann-richomme",
       "boat": "PAPREC ARKÉA",
-      "rank": 7,
+      "rank": 6,
       "abort": false,
-      "heading": 174,
-      "lat_ddm": "12°49.86'N",
-      "lon_ddm": "30°21.75'W",
-      "lat_dec": 12.831,
-      "lon_dec": -30.3625,
-      "last_30mn_heading": 174,
-      "last_30mn_speed": 24.4,
-      "last_30mn_vmg": 24.2,
-      "last_30mn_distance": 12.3,
-      "last_24h_distance": 96.9,
-      "last_24h_heading": 175,
-      "last_24h_speed": 24.2,
-      "last_24h_vmg": 24,
-      "last_report_distance": 342.2,
-      "last_report_heading": 172,
-      "last_report_speed": 14.3,
-      "last_report_vmg": 14.2,
-      "dtf": 21991.7,
-      "dtl": 93.1,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 177,
+      "lat_ddm": "11°09.47'N",
+      "lon_ddm": "30°18.94'W",
+      "lat_dec": 11.157833333333333,
+      "lon_dec": -30.315666666666665,
+      "last_30mn_heading": 177,
+      "last_30mn_speed": 22.9,
+      "last_30mn_vmg": 22.5,
+      "last_30mn_distance": 11.5,
+      "last_24h_distance": 100.5,
+      "last_24h_heading": 178,
+      "last_24h_speed": 25.1,
+      "last_24h_vmg": 24.6,
+      "last_report_distance": 403.3,
+      "last_report_heading": 174,
+      "last_report_speed": 16.8,
+      "last_report_vmg": 16.7,
+      "dtf": 21893.3,
+      "dtl": 84.2,
+      "total_time": "9d 9h 28m 0s",
       "progress": "up",
       "foiler": true,
       "color": "#2535E0",
@@ -1866,39 +1619,43 @@
         [
           12.831,
           -30.3625
+        ],
+        [
+          11.157833333333333,
+          -30.315666666666665
         ]
       ]
     },
     "FRA17": {
       "key": "FRA17",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 17",
       "country": "FRA",
       "skipper": "Yannick Bestaven",
       "skipperLink": "https://www.vendeeglobe.org/skippers/yannick-bestaven",
       "boat": "Maître CoQ V",
-      "rank": 8,
+      "rank": 7,
       "abort": false,
-      "heading": 169,
-      "lat_ddm": "13°02.05'N",
-      "lon_ddm": "29°49.51'W",
-      "lat_dec": 13.034166666666666,
-      "lon_dec": -29.825166666666668,
-      "last_30mn_heading": 169,
-      "last_30mn_speed": 21.8,
-      "last_30mn_vmg": 21.8,
-      "last_30mn_distance": 10.9,
-      "last_24h_distance": 91.5,
-      "last_24h_heading": 172,
-      "last_24h_speed": 22.9,
-      "last_24h_vmg": 22.8,
-      "last_report_distance": 328.7,
-      "last_report_heading": 170,
-      "last_report_speed": 13.7,
-      "last_report_vmg": 13.7,
-      "dtf": 21996.8,
-      "dtl": 98.1,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 183,
+      "lat_ddm": "11°27.91'N",
+      "lon_ddm": "29°42.12'W",
+      "lat_dec": 11.465166666666667,
+      "lon_dec": -29.701999999999998,
+      "last_30mn_heading": 183,
+      "last_30mn_speed": 23.5,
+      "last_30mn_vmg": 22.7,
+      "last_30mn_distance": 11.8,
+      "last_24h_distance": 94.5,
+      "last_24h_heading": 176,
+      "last_24h_speed": 23.6,
+      "last_24h_vmg": 23.4,
+      "last_report_distance": 383.7,
+      "last_report_heading": 172,
+      "last_report_speed": 16,
+      "last_report_vmg": 15.9,
+      "dtf": 21903.2,
+      "dtl": 94.1,
+      "total_time": "9d 9h 28m 0s",
       "progress": "up",
       "foiler": true,
       "color": "#181A27",
@@ -2133,40 +1890,44 @@
         [
           13.034166666666666,
           -29.825166666666668
+        ],
+        [
+          11.465166666666667,
+          -29.701999999999998
         ]
       ]
     },
     "FRA109": {
       "key": "FRA109",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 109",
       "country": "GBR",
       "skipper": "Samantha Davies",
       "skipperLink": "https://www.vendeeglobe.org/skippers/samantha-davies",
       "boat": "Initiatives-Cœur",
-      "rank": 9,
+      "rank": 8,
       "abort": false,
-      "heading": 181,
-      "lat_ddm": "13°07.63'N",
-      "lon_ddm": "29°28.22'W",
-      "lat_dec": 13.127166666666668,
-      "lon_dec": -29.470333333333333,
-      "last_30mn_heading": 181,
-      "last_30mn_speed": 17.2,
-      "last_30mn_vmg": 16.8,
-      "last_30mn_distance": 8.6,
-      "last_24h_distance": 86.2,
-      "last_24h_heading": 176,
-      "last_24h_speed": 21.5,
-      "last_24h_vmg": 21.4,
-      "last_report_distance": 327.6,
-      "last_report_heading": 173,
-      "last_report_speed": 13.6,
-      "last_report_vmg": 13.6,
-      "dtf": 21997.9,
-      "dtl": 99.3,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "down",
+      "heading": 182,
+      "lat_ddm": "11°39.22'N",
+      "lon_ddm": "29°24.92'W",
+      "lat_dec": 11.653666666666666,
+      "lon_dec": -29.415333333333333,
+      "last_30mn_heading": 182,
+      "last_30mn_speed": 23.5,
+      "last_30mn_vmg": 22.8,
+      "last_30mn_distance": 11.8,
+      "last_24h_distance": 88.5,
+      "last_24h_heading": 178,
+      "last_24h_speed": 22.1,
+      "last_24h_vmg": 21.8,
+      "last_report_distance": 377.9,
+      "last_report_heading": 174,
+      "last_report_speed": 15.7,
+      "last_report_vmg": 15.7,
+      "dtf": 21910.7,
+      "dtl": 101.6,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "up",
       "foiler": true,
       "color": "#8C1515",
       "colorFoil": "#DC6F3D",
@@ -2400,39 +2161,43 @@
         [
           13.127166666666668,
           -29.470333333333333
+        ],
+        [
+          11.653666666666666,
+          -29.415333333333333
         ]
       ]
     },
     "FRA3": {
       "key": "FRA3",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 3",
       "country": "FRA",
       "skipper": "Jérémie Beyou",
       "skipperLink": "https://www.vendeeglobe.org/skippers/jeremie-beyou",
       "boat": "Charal",
-      "rank": 10,
+      "rank": 9,
       "abort": false,
-      "heading": 170,
-      "lat_ddm": "13°02.80'N",
-      "lon_ddm": "30°27.89'W",
-      "lat_dec": 13.046666666666667,
-      "lon_dec": -30.464833333333335,
-      "last_30mn_heading": 170,
-      "last_30mn_speed": 23.4,
-      "last_30mn_vmg": 23.3,
-      "last_30mn_distance": 11.7,
-      "last_24h_distance": 94.9,
-      "last_24h_heading": 173,
-      "last_24h_speed": 23.7,
-      "last_24h_vmg": 23.6,
-      "last_report_distance": 333.7,
-      "last_report_heading": 172,
-      "last_report_speed": 13.9,
-      "last_report_vmg": 13.8,
-      "dtf": 22005.7,
-      "dtl": 107.1,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 178,
+      "lat_ddm": "11°27.35'N",
+      "lon_ddm": "30°25.96'W",
+      "lat_dec": 11.455833333333333,
+      "lon_dec": -30.432666666666666,
+      "last_30mn_heading": 178,
+      "last_30mn_speed": 19.1,
+      "last_30mn_vmg": 18.8,
+      "last_30mn_distance": 9.6,
+      "last_24h_distance": 95.5,
+      "last_24h_heading": 179,
+      "last_24h_speed": 23.9,
+      "last_24h_vmg": 23.4,
+      "last_report_distance": 389,
+      "last_report_heading": 174,
+      "last_report_speed": 16.2,
+      "last_report_vmg": 16.1,
+      "dtf": 21912.3,
+      "dtl": 103.2,
+      "total_time": "9d 9h 28m 0s",
       "progress": "up",
       "foiler": true,
       "color": "#181A27",
@@ -2667,40 +2432,44 @@
         [
           13.046666666666667,
           -30.464833333333335
+        ],
+        [
+          11.455833333333333,
+          -30.432666666666666
         ]
       ]
     },
     "FRA15": {
       "key": "FRA15",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 15",
       "country": "FRA",
       "skipper": "Clarisse Crémer",
       "skipperLink": "https://www.vendeeglobe.org/skippers/clarisse-cremer",
       "boat": "L'Occitane en Provence",
-      "rank": 11,
+      "rank": 10,
       "abort": false,
-      "heading": 171,
-      "lat_ddm": "13°14.49'N",
-      "lon_ddm": "29°47.82'W",
-      "lat_dec": 13.2415,
-      "lon_dec": -29.797,
-      "last_30mn_heading": 171,
-      "last_30mn_speed": 22.4,
-      "last_30mn_vmg": 22.4,
-      "last_30mn_distance": 11.2,
-      "last_24h_distance": 90.5,
-      "last_24h_heading": 170,
-      "last_24h_speed": 22.6,
-      "last_24h_vmg": 22.6,
-      "last_report_distance": 331.6,
+      "heading": 175,
+      "lat_ddm": "11°48.10'N",
+      "lon_ddm": "29°39.21'W",
+      "lat_dec": 11.801666666666666,
+      "lon_dec": -29.6535,
+      "last_30mn_heading": 175,
+      "last_30mn_speed": 21.2,
+      "last_30mn_vmg": 21.1,
+      "last_30mn_distance": 10.6,
+      "last_24h_distance": 86.9,
+      "last_24h_heading": 174,
+      "last_24h_speed": 21.7,
+      "last_24h_vmg": 21.6,
+      "last_report_distance": 373.3,
       "last_report_heading": 172,
-      "last_report_speed": 13.8,
-      "last_report_vmg": 13.8,
-      "dtf": 22008.6,
-      "dtl": 110,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "down",
+      "last_report_speed": 15.6,
+      "last_report_vmg": 15.5,
+      "dtf": 21922.3,
+      "dtl": 113.2,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "up",
       "foiler": true,
       "color": "#001022",
       "colorFoil": "#DC6F3D",
@@ -2934,12 +2703,287 @@
         [
           13.2415,
           -29.797
+        ],
+        [
+          11.801666666666666,
+          -29.6535
+        ]
+      ]
+    },
+    "FRA29": {
+      "key": "FRA29",
+      "timestamp": 1732051800000,
+      "sail": "FRA 29",
+      "country": "FRA",
+      "skipper": "Jean Le Cam",
+      "skipperLink": "https://www.vendeeglobe.org/skippers/jean-le-cam",
+      "boat": "Tout commence en Finistère - Armor-lux",
+      "rank": 11,
+      "abort": false,
+      "heading": 187,
+      "lat_ddm": "12°30.98'N",
+      "lon_ddm": "23°52.88'W",
+      "lat_dec": 12.516333333333334,
+      "lon_dec": -23.881333333333334,
+      "last_30mn_heading": 187,
+      "last_30mn_speed": 16.3,
+      "last_30mn_vmg": 16.3,
+      "last_30mn_distance": 8.1,
+      "last_24h_distance": 62.4,
+      "last_24h_heading": 220,
+      "last_24h_speed": 13.9,
+      "last_24h_vmg": 11.7,
+      "last_report_distance": 332.4,
+      "last_report_heading": 224,
+      "last_report_speed": 13.9,
+      "last_report_vmg": 12.4,
+      "dtf": 21929.4,
+      "dtl": 120.3,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "down",
+      "foiler": false,
+      "color": "#161616",
+      "colorFoil": "#DC6F3D",
+      "colorMiddle": "#3C3C3B",
+      "colorInside": "#E6C42B",
+      "track": [
+        [
+          46.4637857,
+          -1.7951899
+        ],
+        [
+          46.448166666666665,
+          -2.282
+        ],
+        [
+          46.45333333333333,
+          -2.531833333333333
+        ],
+        [
+          45.695,
+          -2.7055
+        ],
+        [
+          45.49616666666667,
+          -3.7721666666666667
+        ],
+        [
+          44.97416666666667,
+          -4.565833333333334
+        ],
+        [
+          44.99483333333333,
+          -5.933833333333333
+        ],
+        [
+          44.586,
+          -6.836
+        ],
+        [
+          43.8975,
+          -7.6515
+        ],
+        [
+          43.80533333333333,
+          -8.6885
+        ],
+        [
+          43.161833333333334,
+          -9.426666666666666
+        ],
+        [
+          42.651,
+          -10.239666666666666
+        ],
+        [
+          42.179833333333335,
+          -11.313333333333333
+        ],
+        [
+          41.13766666666667,
+          -11.665
+        ],
+        [
+          40.223,
+          -11.961333333333334
+        ],
+        [
+          39.369,
+          -12.482
+        ],
+        [
+          38.277833333333334,
+          -12.1585
+        ],
+        [
+          37.330333333333336,
+          -11.666
+        ],
+        [
+          36.3625,
+          -12.409833333333333
+        ],
+        [
+          35.50116666666667,
+          -13.4165
+        ],
+        [
+          34.67366666666667,
+          -14.386666666666667
+        ],
+        [
+          33.951,
+          -15.499166666666667
+        ],
+        [
+          33.38816666666666,
+          -16.441166666666668
+        ],
+        [
+          32.9685,
+          -17.39
+        ],
+        [
+          32.2675,
+          -17.856
+        ],
+        [
+          31.577333333333332,
+          -18.1145
+        ],
+        [
+          30.803,
+          -18.308333333333334
+        ],
+        [
+          30.049833333333332,
+          -18.627166666666668
+        ],
+        [
+          29.238166666666668,
+          -18.618333333333332
+        ],
+        [
+          28.532666666666668,
+          -18.933333333333334
+        ],
+        [
+          27.697666666666667,
+          -19.3465
+        ],
+        [
+          26.989833333333333,
+          -19.812833333333334
+        ],
+        [
+          26.375333333333334,
+          -20.068666666666665
+        ],
+        [
+          25.684,
+          -20.101166666666668
+        ],
+        [
+          25.023,
+          -20.342833333333335
+        ],
+        [
+          24.4535,
+          -20.7765
+        ],
+        [
+          24.150833333333335,
+          -21.133666666666667
+        ],
+        [
+          23.923000000000002,
+          -21.1385
+        ],
+        [
+          23.462666666666667,
+          -21.024833333333333
+        ],
+        [
+          22.947333333333333,
+          -21.01
+        ],
+        [
+          22.439833333333333,
+          -20.85183333333333
+        ],
+        [
+          21.930833333333332,
+          -20.862
+        ],
+        [
+          21.589166666666667,
+          -20.792
+        ],
+        [
+          21.4275,
+          -20.497166666666665
+        ],
+        [
+          21.2395,
+          -20.4335
+        ],
+        [
+          20.9715,
+          -20.0925
+        ],
+        [
+          20.479833333333332,
+          -19.89
+        ],
+        [
+          20.096333333333334,
+          -19.645166666666668
+        ],
+        [
+          19.2895,
+          -19.408666666666665
+        ],
+        [
+          18.257166666666667,
+          -19.375333333333334
+        ],
+        [
+          17.280666666666665,
+          -19.216
+        ],
+        [
+          16.479333333333333,
+          -19.887
+        ],
+        [
+          15.7325,
+          -20.588
+        ],
+        [
+          15.108,
+          -21.314333333333334
+        ],
+        [
+          14.530666666666667,
+          -22.138166666666667
+        ],
+        [
+          13.763833333333332,
+          -22.414
+        ],
+        [
+          13.3125,
+          -23.194666666666667
+        ],
+        [
+          12.516333333333334,
+          -23.881333333333334
         ]
       ]
     },
     "FRA08": {
       "key": "FRA08",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 08",
       "country": "SUI",
       "skipper": "Justine Mettraux",
@@ -2947,26 +2991,26 @@
       "boat": "TeamWork - Team Snef",
       "rank": 12,
       "abort": false,
-      "heading": 170,
-      "lat_ddm": "13°22.16'N",
-      "lon_ddm": "30°21.31'W",
-      "lat_dec": 13.369333333333334,
-      "lon_dec": -30.355166666666666,
-      "last_30mn_heading": 170,
-      "last_30mn_speed": 20.7,
-      "last_30mn_vmg": 20.7,
-      "last_30mn_distance": 10.4,
-      "last_24h_distance": 86.7,
-      "last_24h_heading": 173,
-      "last_24h_speed": 21.7,
-      "last_24h_vmg": 21.6,
-      "last_report_distance": 312.5,
-      "last_report_heading": 171,
-      "last_report_speed": 13,
-      "last_report_vmg": 13,
-      "dtf": 22023.1,
-      "dtl": 124.5,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 171,
+      "lat_ddm": "11°49.98'N",
+      "lon_ddm": "30°12.41'W",
+      "lat_dec": 11.833,
+      "lon_dec": -30.206833333333332,
+      "last_30mn_heading": 171,
+      "last_30mn_speed": 22.5,
+      "last_30mn_vmg": 22.4,
+      "last_30mn_distance": 11.3,
+      "last_24h_distance": 92.6,
+      "last_24h_heading": 175,
+      "last_24h_speed": 23.2,
+      "last_24h_vmg": 23,
+      "last_report_distance": 366,
+      "last_report_heading": 172,
+      "last_report_speed": 15.2,
+      "last_report_vmg": 15.2,
+      "dtf": 21931.3,
+      "dtl": 122.2,
+      "total_time": "9d 9h 28m 0s",
       "progress": "eq",
       "foiler": true,
       "color": "#0462A3",
@@ -3201,12 +3245,16 @@
         [
           13.369333333333334,
           -30.355166666666666
+        ],
+        [
+          11.833,
+          -30.206833333333332
         ]
       ]
     },
     "FRA2030": {
       "key": "FRA2030",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 2030",
       "country": "FRA",
       "skipper": "Paul Meilhat",
@@ -3214,26 +3262,26 @@
       "boat": "Biotherm",
       "rank": 13,
       "abort": false,
-      "heading": 172,
-      "lat_ddm": "13°33.18'N",
-      "lon_ddm": "31°13.25'W",
-      "lat_dec": 13.553,
-      "lon_dec": -31.220833333333335,
-      "last_30mn_heading": 172,
-      "last_30mn_speed": 25.8,
+      "heading": 174,
+      "lat_ddm": "11°55.98'N",
+      "lon_ddm": "30°59.97'W",
+      "lat_dec": 11.933,
+      "lon_dec": -30.9995,
+      "last_30mn_heading": 174,
+      "last_30mn_speed": 25.9,
       "last_30mn_vmg": 25.7,
-      "last_30mn_distance": 12.9,
-      "last_24h_distance": 87.9,
-      "last_24h_heading": 170,
-      "last_24h_speed": 22,
-      "last_24h_vmg": 21.9,
-      "last_report_distance": 304.4,
-      "last_report_heading": 177,
-      "last_report_speed": 12.7,
-      "last_report_vmg": 12.5,
-      "dtf": 22045.5,
-      "dtl": 146.9,
-      "total_time": "9d 5h 28m 0s",
+      "last_30mn_distance": 13,
+      "last_24h_distance": 98.1,
+      "last_24h_heading": 172,
+      "last_24h_speed": 24.5,
+      "last_24h_vmg": 24.4,
+      "last_report_distance": 363,
+      "last_report_heading": 175,
+      "last_report_speed": 15.1,
+      "last_report_vmg": 15,
+      "dtf": 21948,
+      "dtl": 138.9,
+      "total_time": "9d 9h 28m 0s",
       "progress": "eq",
       "foiler": true,
       "color": "#8BABC0",
@@ -3468,12 +3516,16 @@
         [
           13.553,
           -31.220833333333335
+        ],
+        [
+          11.933,
+          -30.9995
         ]
       ]
     },
     "FRA13": {
       "key": "FRA13",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 13",
       "country": "FRA",
       "skipper": "Damien Seguin",
@@ -3481,27 +3533,27 @@
       "boat": "Groupe APICIL",
       "rank": 14,
       "abort": false,
-      "heading": 176,
-      "lat_ddm": "15°00.78'N",
-      "lon_ddm": "29°41.96'W",
-      "lat_dec": 15.013,
-      "lon_dec": -29.699333333333332,
-      "last_30mn_heading": 176,
-      "last_30mn_speed": 20.6,
-      "last_30mn_vmg": 20.4,
-      "last_30mn_distance": 10.3,
-      "last_24h_distance": 79.7,
-      "last_24h_heading": 171,
-      "last_24h_speed": 19.9,
-      "last_24h_vmg": 19.9,
-      "last_report_distance": 290.6,
-      "last_report_heading": 182,
-      "last_report_speed": 12.1,
-      "last_report_vmg": 11.8,
-      "dtf": 22111.5,
-      "dtl": 212.8,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "up",
+      "heading": 179,
+      "lat_ddm": "13°33.73'N",
+      "lon_ddm": "29°37.15'W",
+      "lat_dec": 13.562166666666666,
+      "lon_dec": -29.619166666666665,
+      "last_30mn_heading": 179,
+      "last_30mn_speed": 20.3,
+      "last_30mn_vmg": 19.9,
+      "last_30mn_distance": 10.1,
+      "last_24h_distance": 87.2,
+      "last_24h_heading": 177,
+      "last_24h_speed": 21.8,
+      "last_24h_vmg": 21.6,
+      "last_report_distance": 342.4,
+      "last_report_heading": 179,
+      "last_report_speed": 14.3,
+      "last_report_vmg": 14.1,
+      "dtf": 22025.2,
+      "dtl": 216.2,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "eq",
       "foiler": true,
       "color": "#AD182D",
       "colorFoil": "#DC6F3D",
@@ -3735,12 +3787,16 @@
         [
           15.013,
           -29.699333333333332
+        ],
+        [
+          13.562166666666666,
+          -29.619166666666665
         ]
       ]
     },
     "FRA09": {
       "key": "FRA09",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 09",
       "country": "FRA",
       "skipper": "Benjamin Dutreux",
@@ -3748,27 +3804,27 @@
       "boat": "GUYOT environnement - Water Family",
       "rank": 15,
       "abort": false,
-      "heading": 176,
-      "lat_ddm": "14°45.36'N",
-      "lon_ddm": "31°07.18'W",
-      "lat_dec": 14.756,
-      "lon_dec": -31.119666666666667,
-      "last_30mn_heading": 176,
-      "last_30mn_speed": 23.1,
-      "last_30mn_vmg": 22.8,
-      "last_30mn_distance": 11.5,
-      "last_24h_distance": 80.8,
-      "last_24h_heading": 174,
-      "last_24h_speed": 20.2,
-      "last_24h_vmg": 20.1,
-      "last_report_distance": 270.5,
-      "last_report_heading": 180,
-      "last_report_speed": 11.3,
-      "last_report_vmg": 11,
-      "dtf": 22114.3,
-      "dtl": 215.7,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "up",
+      "heading": 171,
+      "lat_ddm": "13°18.47'N",
+      "lon_ddm": "30°59.20'W",
+      "lat_dec": 13.307833333333333,
+      "lon_dec": -30.986666666666668,
+      "last_30mn_heading": 171,
+      "last_30mn_speed": 22.2,
+      "last_30mn_vmg": 22.1,
+      "last_30mn_distance": 11.1,
+      "last_24h_distance": 87.3,
+      "last_24h_heading": 175,
+      "last_24h_speed": 21.8,
+      "last_24h_vmg": 21.6,
+      "last_report_distance": 320.1,
+      "last_report_heading": 178,
+      "last_report_speed": 13.3,
+      "last_report_vmg": 13.1,
+      "dtf": 22028,
+      "dtl": 218.9,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "eq",
       "foiler": true,
       "color": "#2B2B2B",
       "colorFoil": "#DC6F3D",
@@ -4002,12 +4058,16 @@
         [
           14.756,
           -31.119666666666667
+        ],
+        [
+          13.307833333333333,
+          -30.986666666666668
         ]
       ]
     },
     "GBR777": {
       "key": "GBR777",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "GBR 777",
       "country": "GBR",
       "skipper": "Pip Hare",
@@ -4015,26 +4075,26 @@
       "boat": "Medallia",
       "rank": 16,
       "abort": false,
-      "heading": 175,
-      "lat_ddm": "14°38.36'N",
-      "lon_ddm": "31°50.52'W",
-      "lat_dec": 14.639333333333333,
-      "lon_dec": -31.842,
-      "last_30mn_heading": 175,
-      "last_30mn_speed": 19.6,
-      "last_30mn_vmg": 19.3,
-      "last_30mn_distance": 9.8,
-      "last_24h_distance": 75.5,
-      "last_24h_heading": 173,
-      "last_24h_speed": 18.9,
-      "last_24h_vmg": 18.7,
-      "last_report_distance": 288.6,
-      "last_report_heading": 175,
-      "last_report_speed": 12,
-      "last_report_vmg": 11.9,
-      "dtf": 22117.6,
-      "dtl": 218.9,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 169,
+      "lat_ddm": "13°24.17'N",
+      "lon_ddm": "31°48.08'W",
+      "lat_dec": 13.402833333333334,
+      "lon_dec": -31.801333333333332,
+      "last_30mn_heading": 169,
+      "last_30mn_speed": 22.1,
+      "last_30mn_vmg": 22,
+      "last_30mn_distance": 11,
+      "last_24h_distance": 74.3,
+      "last_24h_heading": 178,
+      "last_24h_speed": 18.6,
+      "last_24h_vmg": 18.1,
+      "last_report_distance": 304.5,
+      "last_report_heading": 177,
+      "last_report_speed": 12.7,
+      "last_report_vmg": 12.5,
+      "dtf": 22045.1,
+      "dtl": 236,
+      "total_time": "9d 9h 28m 0s",
       "progress": "eq",
       "foiler": true,
       "color": "#3E50C2",
@@ -4269,12 +4329,16 @@
         [
           14.639333333333333,
           -31.842
+        ],
+        [
+          13.402833333333334,
+          -31.801333333333332
         ]
       ]
     },
     "MON1297": {
       "key": "MON1297",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "MON 1297",
       "country": "GER",
       "skipper": "Boris Herrmann",
@@ -4282,27 +4346,27 @@
       "boat": "Malizia - Seaexplorer",
       "rank": 17,
       "abort": false,
-      "heading": 177,
-      "lat_ddm": "15°18.20'N",
-      "lon_ddm": "31°09.74'W",
-      "lat_dec": 15.303333333333333,
-      "lon_dec": -31.162333333333333,
-      "last_30mn_heading": 177,
-      "last_30mn_speed": 21.4,
-      "last_30mn_vmg": 21.1,
-      "last_30mn_distance": 10.7,
-      "last_24h_distance": 77.8,
-      "last_24h_heading": 179,
-      "last_24h_speed": 19.4,
-      "last_24h_vmg": 19,
-      "last_report_distance": 274.4,
-      "last_report_heading": 174,
-      "last_report_speed": 11.4,
-      "last_report_vmg": 11.3,
-      "dtf": 22146.9,
-      "dtl": 248.2,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "up",
+      "heading": 174,
+      "lat_ddm": "13°54.62'N",
+      "lon_ddm": "31°09.25'W",
+      "lat_dec": 13.910333333333334,
+      "lon_dec": -31.154166666666665,
+      "last_30mn_heading": 174,
+      "last_30mn_speed": 20.1,
+      "last_30mn_vmg": 19.9,
+      "last_30mn_distance": 10,
+      "last_24h_distance": 83.6,
+      "last_24h_heading": 180,
+      "last_24h_speed": 20.9,
+      "last_24h_vmg": 20.4,
+      "last_report_distance": 313.6,
+      "last_report_heading": 177,
+      "last_report_speed": 13.1,
+      "last_report_vmg": 12.9,
+      "dtf": 22065.4,
+      "dtl": 256.3,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "eq",
       "foiler": true,
       "color": "#A9A5A4",
       "colorFoil": "#DC6F3D",
@@ -4536,39 +4600,585 @@
         [
           15.303333333333333,
           -31.162333333333333
+        ],
+        [
+          13.910333333333334,
+          -31.154166666666665
+        ]
+      ]
+    },
+    "FRA10": {
+      "key": "FRA10",
+      "timestamp": 1732051800000,
+      "sail": "FRA 10",
+      "country": "FRA",
+      "skipper": "Romain Attanasio",
+      "skipperLink": "https://www.vendeeglobe.org/skippers/romain-attanasio",
+      "boat": "Fortinet - Best Western",
+      "rank": 18,
+      "abort": false,
+      "heading": 169,
+      "lat_ddm": "13°56.06'N",
+      "lon_ddm": "31°36.04'W",
+      "lat_dec": 13.934333333333333,
+      "lon_dec": -31.600666666666665,
+      "last_30mn_heading": 169,
+      "last_30mn_speed": 18.8,
+      "last_30mn_vmg": 18.7,
+      "last_30mn_distance": 9.5,
+      "last_24h_distance": 81.9,
+      "last_24h_heading": 176,
+      "last_24h_speed": 20.5,
+      "last_24h_vmg": 20.2,
+      "last_report_distance": 349.6,
+      "last_report_heading": 175,
+      "last_report_speed": 14.6,
+      "last_report_vmg": 14.4,
+      "dtf": 22073.1,
+      "dtl": 264,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "up",
+      "foiler": true,
+      "color": "#2A528C",
+      "colorFoil": "#DC6F3D",
+      "colorMiddle": "#449BD4",
+      "colorInside": "#DA291C",
+      "track": [
+        [
+          46.4637857,
+          -1.7951899
+        ],
+        [
+          46.509166666666665,
+          -2.4541666666666666
+        ],
+        [
+          46.50933333333333,
+          -2.650333333333333
+        ],
+        [
+          45.7595,
+          -2.8658333333333332
+        ],
+        [
+          45.45,
+          -3.6905
+        ],
+        [
+          44.87983333333333,
+          -4.368
+        ],
+        [
+          44.937,
+          -5.756833333333333
+        ],
+        [
+          45.0825,
+          -7.045166666666667
+        ],
+        [
+          44.12766666666667,
+          -7.752833333333333
+        ],
+        [
+          43.775666666666666,
+          -8.609333333333334
+        ],
+        [
+          43.941,
+          -9.7685
+        ],
+        [
+          43.300666666666665,
+          -10.352666666666666
+        ],
+        [
+          42.163666666666664,
+          -10.846333333333334
+        ],
+        [
+          41.1305,
+          -10.955
+        ],
+        [
+          40.13216666666667,
+          -10.452833333333333
+        ],
+        [
+          39.54,
+          -11.474333333333334
+        ],
+        [
+          38.768166666666666,
+          -12.051166666666667
+        ],
+        [
+          37.67466666666667,
+          -11.596166666666667
+        ],
+        [
+          36.923,
+          -11.715166666666667
+        ],
+        [
+          36.26316666666666,
+          -12.8655
+        ],
+        [
+          35.57966666666667,
+          -13.933833333333334
+        ],
+        [
+          35.002833333333335,
+          -14.838166666666666
+        ],
+        [
+          34.187333333333335,
+          -15.7275
+        ],
+        [
+          33.48883333333333,
+          -16.874833333333335
+        ],
+        [
+          32.8715,
+          -17.921333333333333
+        ],
+        [
+          32.142833333333336,
+          -18.872166666666665
+        ],
+        [
+          31.334333333333333,
+          -19.715166666666665
+        ],
+        [
+          30.654833333333332,
+          -20.621
+        ],
+        [
+          30.033,
+          -21.512333333333334
+        ],
+        [
+          29.276666666666667,
+          -22.517666666666667
+        ],
+        [
+          28.564166666666665,
+          -23.378
+        ],
+        [
+          28.1125,
+          -23.820166666666665
+        ],
+        [
+          27.660166666666665,
+          -24.153
+        ],
+        [
+          27.145333333333333,
+          -24.457333333333334
+        ],
+        [
+          26.914,
+          -24.736166666666666
+        ],
+        [
+          26.645666666666667,
+          -24.995
+        ],
+        [
+          26.3405,
+          -25.6465
+        ],
+        [
+          26.190333333333335,
+          -26.207166666666666
+        ],
+        [
+          25.794333333333334,
+          -26.672666666666668
+        ],
+        [
+          25.2985,
+          -27.255166666666668
+        ],
+        [
+          24.913333333333334,
+          -28.013
+        ],
+        [
+          24.641,
+          -28.684
+        ],
+        [
+          24.22833333333333,
+          -29.422333333333334
+        ],
+        [
+          23.973166666666668,
+          -29.9635
+        ],
+        [
+          23.654166666666665,
+          -30.5725
+        ],
+        [
+          23.41283333333333,
+          -31.461833333333335
+        ],
+        [
+          23.192166666666665,
+          -32.325833333333335
+        ],
+        [
+          22.591,
+          -32.1795
+        ],
+        [
+          22.012,
+          -32.23983333333334
+        ],
+        [
+          21.225833333333334,
+          -32.1975
+        ],
+        [
+          20.475166666666667,
+          -32.154
+        ],
+        [
+          19.735833333333332,
+          -32.12
+        ],
+        [
+          18.819666666666667,
+          -32.24966666666667
+        ],
+        [
+          18.045,
+          -32.0685
+        ],
+        [
+          17.2845,
+          -31.6865
+        ],
+        [
+          16.42,
+          -31.7765
+        ],
+        [
+          15.295333333333334,
+          -31.698166666666665
+        ],
+        [
+          13.934333333333333,
+          -31.600666666666665
+        ]
+      ]
+    },
+    "FRA83": {
+      "key": "FRA83",
+      "timestamp": 1732051800000,
+      "sail": "FRA 83",
+      "country": "FRA",
+      "skipper": "Sébastien Marsset",
+      "skipperLink": "https://www.vendeeglobe.org/skippers/sebastien-marsset",
+      "boat": "FOUSSIER",
+      "rank": 19,
+      "abort": false,
+      "heading": 175,
+      "lat_ddm": "14°48.51'N",
+      "lon_ddm": "28°40.03'W",
+      "lat_dec": 14.8085,
+      "lon_dec": -28.667166666666667,
+      "last_30mn_heading": 175,
+      "last_30mn_speed": 15.7,
+      "last_30mn_vmg": 15.6,
+      "last_30mn_distance": 7.9,
+      "last_24h_distance": 63.6,
+      "last_24h_heading": 178,
+      "last_24h_speed": 15.9,
+      "last_24h_vmg": 15.7,
+      "last_report_distance": 274.6,
+      "last_report_heading": 170,
+      "last_report_speed": 11.4,
+      "last_report_vmg": 11.4,
+      "dtf": 22087.9,
+      "dtl": 278.8,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "eq",
+      "foiler": false,
+      "color": "#C55327",
+      "colorFoil": "#DC6F3D",
+      "colorMiddle": "#565655",
+      "colorInside": "#FFFFFF",
+      "track": [
+        [
+          46.4637857,
+          -1.7951899
+        ],
+        [
+          46.521,
+          -2.3783333333333334
+        ],
+        [
+          46.54816666666667,
+          -2.6268333333333334
+        ],
+        [
+          45.831833333333336,
+          -3.0151666666666666
+        ],
+        [
+          45.48833333333334,
+          -3.8385
+        ],
+        [
+          44.928,
+          -4.499333333333333
+        ],
+        [
+          44.8985,
+          -5.7915
+        ],
+        [
+          44.99283333333333,
+          -7.093333333333334
+        ],
+        [
+          44.41566666666667,
+          -7.796333333333333
+        ],
+        [
+          43.66566666666667,
+          -8.509666666666666
+        ],
+        [
+          43.17366666666667,
+          -9.326833333333333
+        ],
+        [
+          42.82116666666667,
+          -10.2855
+        ],
+        [
+          42.63583333333333,
+          -11.650166666666667
+        ],
+        [
+          41.683166666666665,
+          -12.0695
+        ],
+        [
+          40.70066666666666,
+          -12.345833333333333
+        ],
+        [
+          39.62983333333333,
+          -12.476833333333333
+        ],
+        [
+          38.5885,
+          -12.348666666666666
+        ],
+        [
+          37.591833333333334,
+          -12.3925
+        ],
+        [
+          36.8605,
+          -13.432
+        ],
+        [
+          36.202,
+          -14.487666666666666
+        ],
+        [
+          35.479166666666664,
+          -15.407
+        ],
+        [
+          34.79783333333334,
+          -16.377666666666666
+        ],
+        [
+          34.06,
+          -17.158333333333335
+        ],
+        [
+          33.30833333333333,
+          -17.842333333333332
+        ],
+        [
+          32.62,
+          -18.632833333333334
+        ],
+        [
+          31.951999999999998,
+          -19.234166666666667
+        ],
+        [
+          31.209,
+          -19.885
+        ],
+        [
+          30.634333333333334,
+          -20.612166666666667
+        ],
+        [
+          30.015166666666666,
+          -21.3285
+        ],
+        [
+          29.3125,
+          -22.101666666666667
+        ],
+        [
+          28.66283333333333,
+          -23.036166666666666
+        ],
+        [
+          28.19333333333333,
+          -23.711666666666666
+        ],
+        [
+          27.817333333333334,
+          -24.175666666666668
+        ],
+        [
+          27.2495,
+          -24.5175
+        ],
+        [
+          26.978833333333334,
+          -24.727833333333333
+        ],
+        [
+          26.7025,
+          -25.16583333333333
+        ],
+        [
+          26.3315,
+          -25.8585
+        ],
+        [
+          26.1455,
+          -26.436666666666667
+        ],
+        [
+          25.7795,
+          -26.854666666666667
+        ],
+        [
+          25.261166666666668,
+          -27.39
+        ],
+        [
+          24.81983333333333,
+          -28.03
+        ],
+        [
+          24.478666666666665,
+          -28.683833333333332
+        ],
+        [
+          24.048833333333334,
+          -28.848333333333333
+        ],
+        [
+          23.497,
+          -28.684833333333334
+        ],
+        [
+          22.897666666666666,
+          -28.470166666666668
+        ],
+        [
+          22.5045,
+          -28.880833333333335
+        ],
+        [
+          22.005333333333333,
+          -28.886666666666667
+        ],
+        [
+          21.308333333333334,
+          -28.69783333333333
+        ],
+        [
+          20.860166666666668,
+          -29.1075
+        ],
+        [
+          20.476,
+          -29.539166666666667
+        ],
+        [
+          19.8815,
+          -29.437833333333334
+        ],
+        [
+          19.304666666666666,
+          -29.543333333333333
+        ],
+        [
+          18.659,
+          -29.592833333333335
+        ],
+        [
+          18.030666666666665,
+          -29.352
+        ],
+        [
+          17.519333333333332,
+          -29.091
+        ],
+        [
+          16.8145,
+          -28.8615
+        ],
+        [
+          15.866666666666667,
+          -28.715
+        ],
+        [
+          14.8085,
+          -28.667166666666667
         ]
       ]
     },
     "NZL64": {
       "key": "NZL64",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "NZL 64",
       "country": "NZL",
       "skipper": "Conrad Colman",
       "skipperLink": "https://www.vendeeglobe.org/skippers/conrad-colman",
       "boat": "MS Amlin",
-      "rank": 18,
+      "rank": 20,
       "abort": false,
-      "heading": 227,
-      "lat_ddm": "15°32.77'N",
-      "lon_ddm": "20°12.61'W",
-      "lat_dec": 15.546166666666666,
-      "lon_dec": -20.210166666666666,
-      "last_30mn_heading": 227,
-      "last_30mn_speed": 13.5,
-      "last_30mn_vmg": 11.7,
-      "last_30mn_distance": 6.7,
-      "last_24h_distance": 38,
-      "last_24h_heading": 180,
-      "last_24h_speed": 9.5,
-      "last_24h_vmg": 9.1,
-      "last_report_distance": 279.8,
-      "last_report_heading": 206,
-      "last_report_speed": 11.7,
-      "last_report_vmg": 11.6,
-      "dtf": 22150.6,
-      "dtl": 252,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 226,
+      "lat_ddm": "14°47.96'N",
+      "lon_ddm": "20°53.39'W",
+      "lat_dec": 14.799333333333333,
+      "lon_dec": -20.889833333333332,
+      "last_30mn_heading": 226,
+      "last_30mn_speed": 14,
+      "last_30mn_vmg": 12.1,
+      "last_30mn_distance": 7,
+      "last_24h_distance": 59.7,
+      "last_24h_heading": 221,
+      "last_24h_speed": 14.9,
+      "last_24h_vmg": 13.6,
+      "last_report_distance": 286.3,
+      "last_report_heading": 210,
+      "last_report_speed": 11.9,
+      "last_report_vmg": 11.7,
+      "dtf": 22096.4,
+      "dtl": 287.3,
+      "total_time": "9d 9h 28m 0s",
       "progress": "down",
       "foiler": false,
       "color": "#F72E1A",
@@ -4803,841 +5413,44 @@
         [
           15.546166666666666,
           -20.210166666666666
-        ]
-      ]
-    },
-    "FRA83": {
-      "key": "FRA83",
-      "timestamp": 1732037400000,
-      "sail": "FRA 83",
-      "country": "FRA",
-      "skipper": "Sébastien Marsset",
-      "skipperLink": "https://www.vendeeglobe.org/skippers/sebastien-marsset",
-      "boat": "FOUSSIER",
-      "rank": 19,
-      "abort": false,
-      "heading": 177,
-      "lat_ddm": "15°52.00'N",
-      "lon_ddm": "28°42.90'W",
-      "lat_dec": 15.866666666666667,
-      "lon_dec": -28.715,
-      "last_30mn_heading": 177,
-      "last_30mn_speed": 14.5,
-      "last_30mn_vmg": 14.4,
-      "last_30mn_distance": 7.3,
-      "last_24h_distance": 57.5,
-      "last_24h_heading": 172,
-      "last_24h_speed": 14.4,
-      "last_24h_vmg": 14.4,
-      "last_report_distance": 244.6,
-      "last_report_heading": 170,
-      "last_report_speed": 10.2,
-      "last_report_vmg": 10.2,
-      "dtf": 22150.8,
-      "dtl": 252.2,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "down",
-      "foiler": false,
-      "color": "#C55327",
-      "colorFoil": "#DC6F3D",
-      "colorMiddle": "#565655",
-      "colorInside": "#FFFFFF",
-      "track": [
-        [
-          46.4637857,
-          -1.7951899
-        ],
-        [
-          46.521,
-          -2.3783333333333334
-        ],
-        [
-          46.54816666666667,
-          -2.6268333333333334
-        ],
-        [
-          45.831833333333336,
-          -3.0151666666666666
-        ],
-        [
-          45.48833333333334,
-          -3.8385
-        ],
-        [
-          44.928,
-          -4.499333333333333
-        ],
-        [
-          44.8985,
-          -5.7915
-        ],
-        [
-          44.99283333333333,
-          -7.093333333333334
-        ],
-        [
-          44.41566666666667,
-          -7.796333333333333
-        ],
-        [
-          43.66566666666667,
-          -8.509666666666666
-        ],
-        [
-          43.17366666666667,
-          -9.326833333333333
-        ],
-        [
-          42.82116666666667,
-          -10.2855
-        ],
-        [
-          42.63583333333333,
-          -11.650166666666667
-        ],
-        [
-          41.683166666666665,
-          -12.0695
-        ],
-        [
-          40.70066666666666,
-          -12.345833333333333
-        ],
-        [
-          39.62983333333333,
-          -12.476833333333333
-        ],
-        [
-          38.5885,
-          -12.348666666666666
-        ],
-        [
-          37.591833333333334,
-          -12.3925
-        ],
-        [
-          36.8605,
-          -13.432
-        ],
-        [
-          36.202,
-          -14.487666666666666
-        ],
-        [
-          35.479166666666664,
-          -15.407
-        ],
-        [
-          34.79783333333334,
-          -16.377666666666666
-        ],
-        [
-          34.06,
-          -17.158333333333335
-        ],
-        [
-          33.30833333333333,
-          -17.842333333333332
-        ],
-        [
-          32.62,
-          -18.632833333333334
-        ],
-        [
-          31.951999999999998,
-          -19.234166666666667
-        ],
-        [
-          31.209,
-          -19.885
-        ],
-        [
-          30.634333333333334,
-          -20.612166666666667
-        ],
-        [
-          30.015166666666666,
-          -21.3285
-        ],
-        [
-          29.3125,
-          -22.101666666666667
-        ],
-        [
-          28.66283333333333,
-          -23.036166666666666
-        ],
-        [
-          28.19333333333333,
-          -23.711666666666666
-        ],
-        [
-          27.817333333333334,
-          -24.175666666666668
-        ],
-        [
-          27.2495,
-          -24.5175
-        ],
-        [
-          26.978833333333334,
-          -24.727833333333333
-        ],
-        [
-          26.7025,
-          -25.16583333333333
-        ],
-        [
-          26.3315,
-          -25.8585
-        ],
-        [
-          26.1455,
-          -26.436666666666667
-        ],
-        [
-          25.7795,
-          -26.854666666666667
-        ],
-        [
-          25.261166666666668,
-          -27.39
-        ],
-        [
-          24.81983333333333,
-          -28.03
-        ],
-        [
-          24.478666666666665,
-          -28.683833333333332
-        ],
-        [
-          24.048833333333334,
-          -28.848333333333333
-        ],
-        [
-          23.497,
-          -28.684833333333334
-        ],
-        [
-          22.897666666666666,
-          -28.470166666666668
-        ],
-        [
-          22.5045,
-          -28.880833333333335
-        ],
-        [
-          22.005333333333333,
-          -28.886666666666667
-        ],
-        [
-          21.308333333333334,
-          -28.69783333333333
-        ],
-        [
-          20.860166666666668,
-          -29.1075
-        ],
-        [
-          20.476,
-          -29.539166666666667
-        ],
-        [
-          19.8815,
-          -29.437833333333334
-        ],
-        [
-          19.304666666666666,
-          -29.543333333333333
-        ],
-        [
-          18.659,
-          -29.592833333333335
-        ],
-        [
-          18.030666666666665,
-          -29.352
-        ],
-        [
-          17.519333333333332,
-          -29.091
-        ],
-        [
-          16.8145,
-          -28.8615
-        ],
-        [
-          15.866666666666667,
-          -28.715
-        ]
-      ]
-    },
-    "FRA10": {
-      "key": "FRA10",
-      "timestamp": 1732037400000,
-      "sail": "FRA 10",
-      "country": "FRA",
-      "skipper": "Romain Attanasio",
-      "skipperLink": "https://www.vendeeglobe.org/skippers/romain-attanasio",
-      "boat": "Fortinet - Best Western",
-      "rank": 20,
-      "abort": false,
-      "heading": 173,
-      "lat_ddm": "15°17.72'N",
-      "lon_ddm": "31°41.89'W",
-      "lat_dec": 15.295333333333334,
-      "lon_dec": -31.698166666666665,
-      "last_30mn_heading": 173,
-      "last_30mn_speed": 19.2,
-      "last_30mn_vmg": 19,
-      "last_30mn_distance": 9.6,
-      "last_24h_distance": 67.7,
-      "last_24h_heading": 176,
-      "last_24h_speed": 16.9,
-      "last_24h_vmg": 16.7,
-      "last_report_distance": 312.1,
-      "last_report_heading": 175,
-      "last_report_speed": 13,
-      "last_report_vmg": 12.9,
-      "dtf": 22153.7,
-      "dtl": 255.1,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "down",
-      "foiler": true,
-      "color": "#2A528C",
-      "colorFoil": "#DC6F3D",
-      "colorMiddle": "#449BD4",
-      "colorInside": "#DA291C",
-      "track": [
-        [
-          46.4637857,
-          -1.7951899
-        ],
-        [
-          46.509166666666665,
-          -2.4541666666666666
-        ],
-        [
-          46.50933333333333,
-          -2.650333333333333
-        ],
-        [
-          45.7595,
-          -2.8658333333333332
-        ],
-        [
-          45.45,
-          -3.6905
-        ],
-        [
-          44.87983333333333,
-          -4.368
-        ],
-        [
-          44.937,
-          -5.756833333333333
-        ],
-        [
-          45.0825,
-          -7.045166666666667
-        ],
-        [
-          44.12766666666667,
-          -7.752833333333333
-        ],
-        [
-          43.775666666666666,
-          -8.609333333333334
-        ],
-        [
-          43.941,
-          -9.7685
-        ],
-        [
-          43.300666666666665,
-          -10.352666666666666
-        ],
-        [
-          42.163666666666664,
-          -10.846333333333334
-        ],
-        [
-          41.1305,
-          -10.955
-        ],
-        [
-          40.13216666666667,
-          -10.452833333333333
-        ],
-        [
-          39.54,
-          -11.474333333333334
-        ],
-        [
-          38.768166666666666,
-          -12.051166666666667
-        ],
-        [
-          37.67466666666667,
-          -11.596166666666667
-        ],
-        [
-          36.923,
-          -11.715166666666667
-        ],
-        [
-          36.26316666666666,
-          -12.8655
-        ],
-        [
-          35.57966666666667,
-          -13.933833333333334
-        ],
-        [
-          35.002833333333335,
-          -14.838166666666666
-        ],
-        [
-          34.187333333333335,
-          -15.7275
-        ],
-        [
-          33.48883333333333,
-          -16.874833333333335
-        ],
-        [
-          32.8715,
-          -17.921333333333333
-        ],
-        [
-          32.142833333333336,
-          -18.872166666666665
-        ],
-        [
-          31.334333333333333,
-          -19.715166666666665
-        ],
-        [
-          30.654833333333332,
-          -20.621
-        ],
-        [
-          30.033,
-          -21.512333333333334
-        ],
-        [
-          29.276666666666667,
-          -22.517666666666667
-        ],
-        [
-          28.564166666666665,
-          -23.378
-        ],
-        [
-          28.1125,
-          -23.820166666666665
-        ],
-        [
-          27.660166666666665,
-          -24.153
-        ],
-        [
-          27.145333333333333,
-          -24.457333333333334
-        ],
-        [
-          26.914,
-          -24.736166666666666
-        ],
-        [
-          26.645666666666667,
-          -24.995
-        ],
-        [
-          26.3405,
-          -25.6465
-        ],
-        [
-          26.190333333333335,
-          -26.207166666666666
-        ],
-        [
-          25.794333333333334,
-          -26.672666666666668
-        ],
-        [
-          25.2985,
-          -27.255166666666668
-        ],
-        [
-          24.913333333333334,
-          -28.013
-        ],
-        [
-          24.641,
-          -28.684
-        ],
-        [
-          24.22833333333333,
-          -29.422333333333334
-        ],
-        [
-          23.973166666666668,
-          -29.9635
-        ],
-        [
-          23.654166666666665,
-          -30.5725
-        ],
-        [
-          23.41283333333333,
-          -31.461833333333335
-        ],
-        [
-          23.192166666666665,
-          -32.325833333333335
-        ],
-        [
-          22.591,
-          -32.1795
-        ],
-        [
-          22.012,
-          -32.23983333333334
-        ],
-        [
-          21.225833333333334,
-          -32.1975
-        ],
-        [
-          20.475166666666667,
-          -32.154
-        ],
-        [
-          19.735833333333332,
-          -32.12
-        ],
-        [
-          18.819666666666667,
-          -32.24966666666667
-        ],
-        [
-          18.045,
-          -32.0685
-        ],
-        [
-          17.2845,
-          -31.6865
-        ],
-        [
-          16.42,
-          -31.7765
-        ],
-        [
-          15.295333333333334,
-          -31.698166666666665
-        ]
-      ]
-    },
-    "FRA5": {
-      "key": "FRA5",
-      "timestamp": 1732037400000,
-      "sail": "FRA 5",
-      "country": "FRA",
-      "skipper": "Éric Bellion",
-      "skipperLink": "https://www.vendeeglobe.org/skippers/eric-bellion",
-      "boat": "STAND AS ONE - Altavia",
-      "rank": 21,
-      "abort": false,
-      "heading": 175,
-      "lat_ddm": "16°04.48'N",
-      "lon_ddm": "28°44.99'W",
-      "lat_dec": 16.074666666666666,
-      "lon_dec": -28.749833333333335,
-      "last_30mn_heading": 175,
-      "last_30mn_speed": 16.2,
-      "last_30mn_vmg": 16.2,
-      "last_30mn_distance": 8.1,
-      "last_24h_distance": 60,
-      "last_24h_heading": 175,
-      "last_24h_speed": 15,
-      "last_24h_vmg": 14.9,
-      "last_report_distance": 282.6,
-      "last_report_heading": 171,
-      "last_report_speed": 11.8,
-      "last_report_vmg": 11.8,
-      "dtf": 22163.5,
-      "dtl": 264.9,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "eq",
-      "foiler": false,
-      "color": "#2816B2",
-      "colorFoil": "#DC6F3D",
-      "colorMiddle": "#00141B",
-      "colorInside": "#BC1074",
-      "track": [
-        [
-          46.4637857,
-          -1.7951899
-        ],
-        [
-          46.526666666666664,
-          -2.406833333333333
-        ],
-        [
-          46.545,
-          -2.6125
-        ],
-        [
-          45.80533333333333,
-          -2.7441666666666666
-        ],
-        [
-          45.7625,
-          -3.6186666666666665
-        ],
-        [
-          45.27133333333333,
-          -4.093333333333334
-        ],
-        [
-          45.257,
-          -5.416333333333333
-        ],
-        [
-          45.32033333333333,
-          -6.709666666666667
-        ],
-        [
-          44.5545,
-          -7.312833333333334
-        ],
-        [
-          43.991166666666665,
-          -8.088833333333334
-        ],
-        [
-          43.71933333333333,
-          -8.814833333333333
-        ],
-        [
-          43.1645,
-          -9.363833333333334
-        ],
-        [
-          42.68833333333333,
-          -10.027166666666666
-        ],
-        [
-          42.3525,
-          -11.236666666666666
-        ],
-        [
-          41.526833333333336,
-          -11.591166666666666
-        ],
-        [
-          40.52433333333333,
-          -11.623166666666666
-        ],
-        [
-          39.49216666666667,
-          -11.5935
-        ],
-        [
-          38.860166666666665,
-          -12.288833333333333
-        ],
-        [
-          38.338166666666666,
-          -13.142166666666666
-        ],
-        [
-          37.931666666666665,
-          -14.1175
-        ],
-        [
-          37.377833333333335,
-          -14.986833333333333
-        ],
-        [
-          36.69833333333333,
-          -15.969833333333334
-        ],
-        [
-          36.11966666666667,
-          -16.953166666666668
-        ],
-        [
-          35.50633333333333,
-          -17.777
-        ],
-        [
-          34.76716666666667,
-          -18.405166666666666
-        ],
-        [
-          33.99333333333333,
-          -19.122666666666667
-        ],
-        [
-          33.041333333333334,
-          -19.966833333333334
-        ],
-        [
-          32.17216666666667,
-          -20.906333333333333
-        ],
-        [
-          31.264833333333332,
-          -21.657833333333333
-        ],
-        [
-          30.397,
-          -22.5195
-        ],
-        [
-          29.7115,
-          -23.146333333333335
-        ],
-        [
-          29.155833333333334,
-          -23.828
-        ],
-        [
-          28.662166666666668,
-          -24.376666666666665
-        ],
-        [
-          28.129666666666665,
-          -24.830666666666666
-        ],
-        [
-          27.712833333333332,
-          -25.345
-        ],
-        [
-          27.311666666666667,
-          -25.534
-        ],
-        [
-          27.16,
-          -25.875333333333334
-        ],
-        [
-          26.833166666666667,
-          -26.471666666666668
-        ],
-        [
-          26.297833333333333,
-          -27.015333333333334
-        ],
-        [
-          25.858833333333333,
-          -27.705
-        ],
-        [
-          25.526833333333332,
-          -28.337333333333333
-        ],
-        [
-          25.188333333333333,
-          -28.9375
-        ],
-        [
-          24.751666666666665,
-          -29.499166666666667
-        ],
-        [
-          24.265,
-          -30.007166666666667
-        ],
-        [
-          23.974333333333334,
-          -30.720666666666666
-        ],
-        [
-          23.515333333333334,
-          -30.936
-        ],
-        [
-          22.765666666666668,
-          -30.722333333333335
-        ],
-        [
-          22.226666666666667,
-          -30.377
-        ],
-        [
-          21.779333333333334,
-          -30.063166666666667
-        ],
-        [
-          21.248166666666666,
-          -29.789666666666665
-        ],
-        [
-          20.716833333333334,
-          -29.571666666666665
-        ],
-        [
-          20.043666666666667,
-          -29.4735
-        ],
-        [
-          19.3695,
-          -29.373166666666666
-        ],
-        [
-          18.694333333333333,
-          -29.233333333333334
-        ],
-        [
-          17.9075,
-          -28.983333333333334
-        ],
-        [
-          17.06983333333333,
-          -28.845666666666666
         ],
         [
-          16.074666666666666,
-          -28.749833333333335
+          14.799333333333333,
+          -20.889833333333332
         ]
       ]
     },
     "FRA30": {
       "key": "FRA30",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 30",
       "country": "FRA",
       "skipper": "Benjamin Ferré",
       "skipperLink": "https://www.vendeeglobe.org/skippers/benjamin-ferre",
       "boat": "Monnoyeur - DUO for a JOB",
-      "rank": 22,
+      "rank": 21,
       "abort": false,
-      "heading": 178,
-      "lat_ddm": "16°06.09'N",
-      "lon_ddm": "29°03.08'W",
-      "lat_dec": 16.1015,
-      "lon_dec": -29.051333333333332,
-      "last_30mn_heading": 178,
-      "last_30mn_speed": 17.4,
+      "heading": 183,
+      "lat_ddm": "14°54.04'N",
+      "lon_ddm": "29°05.07'W",
+      "lat_dec": 14.900666666666666,
+      "lon_dec": -29.0845,
+      "last_30mn_heading": 183,
+      "last_30mn_speed": 17.7,
       "last_30mn_vmg": 17.2,
-      "last_30mn_distance": 8.7,
-      "last_24h_distance": 61.5,
-      "last_24h_heading": 173,
-      "last_24h_speed": 15.4,
-      "last_24h_vmg": 15.3,
-      "last_report_distance": 270.5,
+      "last_30mn_distance": 8.8,
+      "last_24h_distance": 72.1,
+      "last_24h_heading": 182,
+      "last_24h_speed": 18,
+      "last_24h_vmg": 17.6,
+      "last_report_distance": 305.1,
       "last_report_heading": 180,
-      "last_report_speed": 11.3,
-      "last_report_vmg": 11.1,
-      "dtf": 22168.3,
-      "dtl": 269.6,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "eq",
+      "last_report_speed": 12.7,
+      "last_report_vmg": 12.5,
+      "dtf": 22097.8,
+      "dtl": 288.7,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "up",
       "foiler": false,
       "color": "#FFFFFF",
       "colorFoil": "#DC6F3D",
@@ -5871,573 +5684,43 @@
         [
           16.1015,
           -29.051333333333332
-        ]
-      ]
-    },
-    "FRA14": {
-      "key": "FRA14",
-      "timestamp": 1732037400000,
-      "sail": "FRA 14",
-      "country": "FRA",
-      "skipper": "Arnaud Boissières",
-      "skipperLink": "https://www.vendeeglobe.org/skippers/arnaud-boissieres",
-      "boat": "La Mie Câline",
-      "rank": 23,
-      "abort": false,
-      "heading": 173,
-      "lat_ddm": "16°14.32'N",
-      "lon_ddm": "28°32.10'W",
-      "lat_dec": 16.238666666666667,
-      "lon_dec": -28.535,
-      "last_30mn_heading": 173,
-      "last_30mn_speed": 18.4,
-      "last_30mn_vmg": 18.4,
-      "last_30mn_distance": 9.2,
-      "last_24h_distance": 59.4,
-      "last_24h_heading": 170,
-      "last_24h_speed": 14.9,
-      "last_24h_vmg": 14.9,
-      "last_report_distance": 241.8,
-      "last_report_heading": 181,
-      "last_report_speed": 10.1,
-      "last_report_vmg": 9.9,
-      "dtf": 22171,
-      "dtl": 272.3,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "eq",
-      "foiler": true,
-      "color": "#FED13F",
-      "colorFoil": "#DC6F3D",
-      "colorMiddle": "#FFFFFF",
-      "colorInside": "#0264B5",
-      "track": [
-        [
-          46.4637857,
-          -1.7951899
-        ],
-        [
-          46.4625,
-          -2.3578333333333332
-        ],
-        [
-          46.3765,
-          -2.5033333333333334
-        ],
-        [
-          45.879666666666665,
-          -3.0261666666666667
-        ],
-        [
-          45.52133333333333,
-          -3.7063333333333333
-        ],
-        [
-          44.907666666666664,
-          -4.311833333333333
-        ],
-        [
-          44.796166666666664,
-          -5.547833333333333
-        ],
-        [
-          44.752,
-          -6.458666666666667
-        ],
-        [
-          43.87316666666667,
-          -7.259333333333333
-        ],
-        [
-          44.144,
-          -8.549666666666667
-        ],
-        [
-          44.150666666666666,
-          -9.692833333333333
-        ],
-        [
-          43.236666666666665,
-          -10.356166666666667
-        ],
-        [
-          42.1805,
-          -10.7405
-        ],
-        [
-          41.16833333333334,
-          -10.854
-        ],
-        [
-          40.19916666666666,
-          -10.406833333333333
-        ],
-        [
-          39.74283333333333,
-          -11.713166666666666
-        ],
-        [
-          38.934333333333335,
-          -11.708166666666667
-        ],
-        [
-          37.93183333333333,
-          -11.133666666666667
-        ],
-        [
-          37.346333333333334,
-          -11.9675
-        ],
-        [
-          36.696666666666665,
-          -13.107833333333334
-        ],
-        [
-          36.01433333333333,
-          -14.251666666666667
-        ],
-        [
-          35.291,
-          -15.186333333333334
-        ],
-        [
-          34.349333333333334,
-          -15.844833333333334
-        ],
-        [
-          33.4545,
-          -16.602666666666668
-        ],
-        [
-          32.936,
-          -17.4825
-        ],
-        [
-          32.156,
-          -18.162166666666668
-        ],
-        [
-          31.260166666666667,
-          -18.910833333333333
-        ],
-        [
-          30.318166666666666,
-          -19.4075
-        ],
-        [
-          29.667333333333332,
-          -19.688333333333333
-        ],
-        [
-          29.00583333333333,
-          -20.514333333333333
-        ],
-        [
-          28.373,
-          -21.168333333333333
-        ],
-        [
-          27.842333333333332,
-          -21.946166666666667
-        ],
-        [
-          27.426666666666666,
-          -22.655833333333334
-        ],
-        [
-          26.948333333333334,
-          -23.142166666666668
-        ],
-        [
-          26.429666666666666,
-          -23.719833333333334
-        ],
-        [
-          25.943333333333335,
-          -24.0285
-        ],
-        [
-          25.4985,
-          -23.942166666666665
-        ],
-        [
-          25.022,
-          -23.839
-        ],
-        [
-          24.3625,
-          -23.937833333333334
-        ],
-        [
-          23.784833333333335,
-          -24.611333333333334
-        ],
-        [
-          23.387666666666668,
-          -25.2315
-        ],
-        [
-          23.256666666666668,
-          -25.6095
-        ],
-        [
-          23.008166666666668,
-          -26.031833333333335
-        ],
-        [
-          22.85333333333333,
-          -26.428
-        ],
-        [
-          22.640833333333333,
-          -26.759833333333333
-        ],
-        [
-          22.240666666666666,
-          -27.114166666666666
-        ],
-        [
-          21.607833333333332,
-          -27.308166666666665
-        ],
-        [
-          21.255166666666668,
-          -27.364333333333335
-        ],
-        [
-          20.924666666666667,
-          -27.868
-        ],
-        [
-          20.416666666666668,
-          -27.955333333333332
-        ],
-        [
-          20.265333333333334,
-          -28.470333333333333
-        ],
-        [
-          19.811166666666665,
-          -28.659666666666666
-        ],
-        [
-          19.209833333333332,
-          -28.69
-        ],
-        [
-          18.518166666666666,
-          -28.6865
-        ],
-        [
-          17.872666666666667,
-          -28.705833333333334
-        ],
-        [
-          17.214833333333335,
-          -28.707833333333333
-        ],
-        [
-          16.238666666666667,
-          -28.535
-        ]
-      ]
-    },
-    "FRA27": {
-      "key": "FRA27",
-      "timestamp": 1732037400000,
-      "sail": "FRA 27",
-      "country": "FRA",
-      "skipper": "Isabelle Joschke",
-      "skipperLink": "https://www.vendeeglobe.org/skippers/isabelle-joschke",
-      "boat": "MACSF",
-      "rank": 24,
-      "abort": false,
-      "heading": 185,
-      "lat_ddm": "15°49.81'N",
-      "lon_ddm": "30°50.56'W",
-      "lat_dec": 15.830166666666667,
-      "lon_dec": -30.842666666666666,
-      "last_30mn_heading": 185,
-      "last_30mn_speed": 17.9,
-      "last_30mn_vmg": 17.1,
-      "last_30mn_distance": 9,
-      "last_24h_distance": 66,
-      "last_24h_heading": 183,
-      "last_24h_speed": 16.5,
-      "last_24h_vmg": 15.9,
-      "last_report_distance": 276.1,
-      "last_report_heading": 174,
-      "last_report_speed": 11.5,
-      "last_report_vmg": 11.4,
-      "dtf": 22173.5,
-      "dtl": 274.9,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "eq",
-      "foiler": true,
-      "color": "#D3D3D3",
-      "colorFoil": "#DC6F3D",
-      "colorMiddle": "#FFFFFF",
-      "colorInside": "#D13334",
-      "track": [
-        [
-          46.4637857,
-          -1.7951899
-        ],
-        [
-          46.47966666666667,
-          -2.3375
-        ],
-        [
-          46.3105,
-          -2.3708333333333336
-        ],
-        [
-          45.76016666666666,
-          -2.5113333333333334
-        ],
-        [
-          45.81,
-          -3.560833333333333
-        ],
-        [
-          45.2545,
-          -3.889666666666667
-        ],
-        [
-          45.281666666666666,
-          -5.4275
-        ],
-        [
-          45.3105,
-          -6.679333333333333
-        ],
-        [
-          44.3275,
-          -7.306333333333333
-        ],
-        [
-          43.824333333333335,
-          -7.9665
-        ],
-        [
-          43.7615,
-          -9.0455
-        ],
-        [
-          43.765166666666666,
-          -10.072
-        ],
-        [
-          42.883,
-          -10.438666666666666
-        ],
-        [
-          42.15133333333333,
-          -11.189166666666667
-        ],
-        [
-          41.91616666666667,
-          -12.325333333333333
-        ],
-        [
-          41.458333333333336,
-          -12.924333333333333
-        ],
-        [
-          40.19,
-          -12.736166666666668
-        ],
-        [
-          39.025,
-          -12.462333333333333
-        ],
-        [
-          38.096666666666664,
-          -12.222666666666667
-        ],
-        [
-          37.35216666666667,
-          -12.622
-        ],
-        [
-          36.767,
-          -13.703833333333334
-        ],
-        [
-          36.16833333333334,
-          -14.271333333333333
-        ],
-        [
-          35.632333333333335,
-          -15.615
-        ],
-        [
-          35.05716666666667,
-          -16.7005
-        ],
-        [
-          34.405833333333334,
-          -17.764499999999998
-        ],
-        [
-          33.56666666666667,
-          -18.659166666666668
-        ],
-        [
-          32.4565,
-          -19.632166666666667
-        ],
-        [
-          31.329666666666668,
-          -20.6885
-        ],
-        [
-          30.389,
-          -21.756
-        ],
-        [
-          29.642666666666667,
-          -22.7985
-        ],
-        [
-          29.000833333333333,
-          -23.418333333333333
-        ],
-        [
-          28.3835,
-          -24.010166666666667
-        ],
-        [
-          28.1085,
-          -24.574833333333334
-        ],
-        [
-          27.696,
-          -24.936166666666665
-        ],
-        [
-          27.3745,
-          -25.295166666666667
-        ],
-        [
-          26.940166666666666,
-          -25.971833333333333
-        ],
-        [
-          26.792833333333334,
-          -26.613333333333333
-        ],
-        [
-          26.536833333333334,
-          -27.194666666666667
-        ],
-        [
-          25.985333333333333,
-          -27.919166666666666
-        ],
-        [
-          25.5575,
-          -28.8435
-        ],
-        [
-          25.3545,
-          -29.671
-        ],
-        [
-          25.17716666666667,
-          -30.316166666666668
-        ],
-        [
-          24.8025,
-          -31.032
-        ],
-        [
-          24.504,
-          -31.854166666666668
-        ],
-        [
-          24.229666666666667,
-          -32.533
-        ],
-        [
-          23.576666666666668,
-          -32.5035
-        ],
-        [
-          22.712333333333333,
-          -32.337833333333336
-        ],
-        [
-          22.076,
-          -32.28633333333333
-        ],
-        [
-          21.539166666666667,
-          -32.100833333333334
-        ],
-        [
-          20.8795,
-          -31.665
-        ],
-        [
-          20.401666666666667,
-          -31.3635
-        ],
-        [
-          19.743666666666666,
-          -31.059833333333334
-        ],
-        [
-          18.9215,
-          -30.924166666666668
-        ],
-        [
-          18.333833333333335,
-          -30.955166666666667
-        ],
-        [
-          17.841666666666665,
-          -30.914166666666667
-        ],
-        [
-          16.927833333333332,
-          -30.7755
         ],
         [
-          15.830166666666667,
-          -30.842666666666666
+          14.900666666666666,
+          -29.0845
         ]
       ]
     },
     "FRA18": {
       "key": "FRA18",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 18",
       "country": "FRA",
       "skipper": "Louis Burton",
       "skipperLink": "https://www.vendeeglobe.org/skippers/louis-burton",
       "boat": "Bureau Vallée",
-      "rank": 25,
+      "rank": 22,
       "abort": false,
-      "heading": 171,
-      "lat_ddm": "16°01.87'N",
-      "lon_ddm": "30°24.95'W",
-      "lat_dec": 16.031166666666667,
-      "lon_dec": -30.41583333333333,
-      "last_30mn_heading": 171,
-      "last_30mn_speed": 17.2,
-      "last_30mn_vmg": 17.2,
-      "last_30mn_distance": 8.6,
-      "last_24h_distance": 67.6,
-      "last_24h_heading": 165,
-      "last_24h_speed": 16.9,
-      "last_24h_vmg": 16.9,
-      "last_report_distance": 267.9,
-      "last_report_heading": 180,
-      "last_report_speed": 11.2,
-      "last_report_vmg": 10.9,
-      "dtf": 22179.9,
-      "dtl": 281.3,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 170,
+      "lat_ddm": "14°41.88'N",
+      "lon_ddm": "30°13.37'W",
+      "lat_dec": 14.698,
+      "lon_dec": -30.222833333333334,
+      "last_30mn_heading": 170,
+      "last_30mn_speed": 22.2,
+      "last_30mn_vmg": 22.2,
+      "last_30mn_distance": 11.1,
+      "last_24h_distance": 80.8,
+      "last_24h_heading": 172,
+      "last_24h_speed": 20.2,
+      "last_24h_vmg": 20.1,
+      "last_report_distance": 309.5,
+      "last_report_heading": 179,
+      "last_report_speed": 12.9,
+      "last_report_vmg": 12.7,
+      "dtf": 22099.3,
+      "dtl": 290.2,
+      "total_time": "9d 9h 28m 0s",
       "progress": "up",
       "foiler": true,
       "color": "#000000",
@@ -6672,12 +5955,829 @@
         [
           16.031166666666667,
           -30.41583333333333
+        ],
+        [
+          14.698,
+          -30.222833333333334
+        ]
+      ]
+    },
+    "FRA14": {
+      "key": "FRA14",
+      "timestamp": 1732051800000,
+      "sail": "FRA 14",
+      "country": "FRA",
+      "skipper": "Arnaud Boissières",
+      "skipperLink": "https://www.vendeeglobe.org/skippers/arnaud-boissieres",
+      "boat": "La Mie Câline",
+      "rank": 23,
+      "abort": false,
+      "heading": 177,
+      "lat_ddm": "15°03.38'N",
+      "lon_ddm": "28°25.66'W",
+      "lat_dec": 15.056333333333333,
+      "lon_dec": -28.427666666666667,
+      "last_30mn_heading": 177,
+      "last_30mn_speed": 18,
+      "last_30mn_vmg": 17.9,
+      "last_30mn_distance": 9,
+      "last_24h_distance": 71.3,
+      "last_24h_heading": 175,
+      "last_24h_speed": 17.8,
+      "last_24h_vmg": 17.7,
+      "last_report_distance": 285.8,
+      "last_report_heading": 177,
+      "last_report_speed": 11.9,
+      "last_report_vmg": 11.8,
+      "dtf": 22100,
+      "dtl": 290.9,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "eq",
+      "foiler": true,
+      "color": "#FED13F",
+      "colorFoil": "#DC6F3D",
+      "colorMiddle": "#FFFFFF",
+      "colorInside": "#0264B5",
+      "track": [
+        [
+          46.4637857,
+          -1.7951899
+        ],
+        [
+          46.4625,
+          -2.3578333333333332
+        ],
+        [
+          46.3765,
+          -2.5033333333333334
+        ],
+        [
+          45.879666666666665,
+          -3.0261666666666667
+        ],
+        [
+          45.52133333333333,
+          -3.7063333333333333
+        ],
+        [
+          44.907666666666664,
+          -4.311833333333333
+        ],
+        [
+          44.796166666666664,
+          -5.547833333333333
+        ],
+        [
+          44.752,
+          -6.458666666666667
+        ],
+        [
+          43.87316666666667,
+          -7.259333333333333
+        ],
+        [
+          44.144,
+          -8.549666666666667
+        ],
+        [
+          44.150666666666666,
+          -9.692833333333333
+        ],
+        [
+          43.236666666666665,
+          -10.356166666666667
+        ],
+        [
+          42.1805,
+          -10.7405
+        ],
+        [
+          41.16833333333334,
+          -10.854
+        ],
+        [
+          40.19916666666666,
+          -10.406833333333333
+        ],
+        [
+          39.74283333333333,
+          -11.713166666666666
+        ],
+        [
+          38.934333333333335,
+          -11.708166666666667
+        ],
+        [
+          37.93183333333333,
+          -11.133666666666667
+        ],
+        [
+          37.346333333333334,
+          -11.9675
+        ],
+        [
+          36.696666666666665,
+          -13.107833333333334
+        ],
+        [
+          36.01433333333333,
+          -14.251666666666667
+        ],
+        [
+          35.291,
+          -15.186333333333334
+        ],
+        [
+          34.349333333333334,
+          -15.844833333333334
+        ],
+        [
+          33.4545,
+          -16.602666666666668
+        ],
+        [
+          32.936,
+          -17.4825
+        ],
+        [
+          32.156,
+          -18.162166666666668
+        ],
+        [
+          31.260166666666667,
+          -18.910833333333333
+        ],
+        [
+          30.318166666666666,
+          -19.4075
+        ],
+        [
+          29.667333333333332,
+          -19.688333333333333
+        ],
+        [
+          29.00583333333333,
+          -20.514333333333333
+        ],
+        [
+          28.373,
+          -21.168333333333333
+        ],
+        [
+          27.842333333333332,
+          -21.946166666666667
+        ],
+        [
+          27.426666666666666,
+          -22.655833333333334
+        ],
+        [
+          26.948333333333334,
+          -23.142166666666668
+        ],
+        [
+          26.429666666666666,
+          -23.719833333333334
+        ],
+        [
+          25.943333333333335,
+          -24.0285
+        ],
+        [
+          25.4985,
+          -23.942166666666665
+        ],
+        [
+          25.022,
+          -23.839
+        ],
+        [
+          24.3625,
+          -23.937833333333334
+        ],
+        [
+          23.784833333333335,
+          -24.611333333333334
+        ],
+        [
+          23.387666666666668,
+          -25.2315
+        ],
+        [
+          23.256666666666668,
+          -25.6095
+        ],
+        [
+          23.008166666666668,
+          -26.031833333333335
+        ],
+        [
+          22.85333333333333,
+          -26.428
+        ],
+        [
+          22.640833333333333,
+          -26.759833333333333
+        ],
+        [
+          22.240666666666666,
+          -27.114166666666666
+        ],
+        [
+          21.607833333333332,
+          -27.308166666666665
+        ],
+        [
+          21.255166666666668,
+          -27.364333333333335
+        ],
+        [
+          20.924666666666667,
+          -27.868
+        ],
+        [
+          20.416666666666668,
+          -27.955333333333332
+        ],
+        [
+          20.265333333333334,
+          -28.470333333333333
+        ],
+        [
+          19.811166666666665,
+          -28.659666666666666
+        ],
+        [
+          19.209833333333332,
+          -28.69
+        ],
+        [
+          18.518166666666666,
+          -28.6865
+        ],
+        [
+          17.872666666666667,
+          -28.705833333333334
+        ],
+        [
+          17.214833333333335,
+          -28.707833333333333
+        ],
+        [
+          16.238666666666667,
+          -28.535
+        ],
+        [
+          15.056333333333333,
+          -28.427666666666667
+        ]
+      ]
+    },
+    "FRA5": {
+      "key": "FRA5",
+      "timestamp": 1732051800000,
+      "sail": "FRA 5",
+      "country": "FRA",
+      "skipper": "Éric Bellion",
+      "skipperLink": "https://www.vendeeglobe.org/skippers/eric-bellion",
+      "boat": "STAND AS ONE - Altavia",
+      "rank": 24,
+      "abort": false,
+      "heading": 173,
+      "lat_ddm": "15°01.09'N",
+      "lon_ddm": "28°43.18'W",
+      "lat_dec": 15.018166666666668,
+      "lon_dec": -28.719666666666665,
+      "last_30mn_heading": 173,
+      "last_30mn_speed": 18,
+      "last_30mn_vmg": 18,
+      "last_30mn_distance": 9,
+      "last_24h_distance": 63.5,
+      "last_24h_heading": 178,
+      "last_24h_speed": 15.9,
+      "last_24h_vmg": 15.7,
+      "last_report_distance": 304.8,
+      "last_report_heading": 172,
+      "last_report_speed": 12.7,
+      "last_report_vmg": 12.7,
+      "dtf": 22100.8,
+      "dtl": 291.7,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "down",
+      "foiler": false,
+      "color": "#2816B2",
+      "colorFoil": "#DC6F3D",
+      "colorMiddle": "#00141B",
+      "colorInside": "#BC1074",
+      "track": [
+        [
+          46.4637857,
+          -1.7951899
+        ],
+        [
+          46.526666666666664,
+          -2.406833333333333
+        ],
+        [
+          46.545,
+          -2.6125
+        ],
+        [
+          45.80533333333333,
+          -2.7441666666666666
+        ],
+        [
+          45.7625,
+          -3.6186666666666665
+        ],
+        [
+          45.27133333333333,
+          -4.093333333333334
+        ],
+        [
+          45.257,
+          -5.416333333333333
+        ],
+        [
+          45.32033333333333,
+          -6.709666666666667
+        ],
+        [
+          44.5545,
+          -7.312833333333334
+        ],
+        [
+          43.991166666666665,
+          -8.088833333333334
+        ],
+        [
+          43.71933333333333,
+          -8.814833333333333
+        ],
+        [
+          43.1645,
+          -9.363833333333334
+        ],
+        [
+          42.68833333333333,
+          -10.027166666666666
+        ],
+        [
+          42.3525,
+          -11.236666666666666
+        ],
+        [
+          41.526833333333336,
+          -11.591166666666666
+        ],
+        [
+          40.52433333333333,
+          -11.623166666666666
+        ],
+        [
+          39.49216666666667,
+          -11.5935
+        ],
+        [
+          38.860166666666665,
+          -12.288833333333333
+        ],
+        [
+          38.338166666666666,
+          -13.142166666666666
+        ],
+        [
+          37.931666666666665,
+          -14.1175
+        ],
+        [
+          37.377833333333335,
+          -14.986833333333333
+        ],
+        [
+          36.69833333333333,
+          -15.969833333333334
+        ],
+        [
+          36.11966666666667,
+          -16.953166666666668
+        ],
+        [
+          35.50633333333333,
+          -17.777
+        ],
+        [
+          34.76716666666667,
+          -18.405166666666666
+        ],
+        [
+          33.99333333333333,
+          -19.122666666666667
+        ],
+        [
+          33.041333333333334,
+          -19.966833333333334
+        ],
+        [
+          32.17216666666667,
+          -20.906333333333333
+        ],
+        [
+          31.264833333333332,
+          -21.657833333333333
+        ],
+        [
+          30.397,
+          -22.5195
+        ],
+        [
+          29.7115,
+          -23.146333333333335
+        ],
+        [
+          29.155833333333334,
+          -23.828
+        ],
+        [
+          28.662166666666668,
+          -24.376666666666665
+        ],
+        [
+          28.129666666666665,
+          -24.830666666666666
+        ],
+        [
+          27.712833333333332,
+          -25.345
+        ],
+        [
+          27.311666666666667,
+          -25.534
+        ],
+        [
+          27.16,
+          -25.875333333333334
+        ],
+        [
+          26.833166666666667,
+          -26.471666666666668
+        ],
+        [
+          26.297833333333333,
+          -27.015333333333334
+        ],
+        [
+          25.858833333333333,
+          -27.705
+        ],
+        [
+          25.526833333333332,
+          -28.337333333333333
+        ],
+        [
+          25.188333333333333,
+          -28.9375
+        ],
+        [
+          24.751666666666665,
+          -29.499166666666667
+        ],
+        [
+          24.265,
+          -30.007166666666667
+        ],
+        [
+          23.974333333333334,
+          -30.720666666666666
+        ],
+        [
+          23.515333333333334,
+          -30.936
+        ],
+        [
+          22.765666666666668,
+          -30.722333333333335
+        ],
+        [
+          22.226666666666667,
+          -30.377
+        ],
+        [
+          21.779333333333334,
+          -30.063166666666667
+        ],
+        [
+          21.248166666666666,
+          -29.789666666666665
+        ],
+        [
+          20.716833333333334,
+          -29.571666666666665
+        ],
+        [
+          20.043666666666667,
+          -29.4735
+        ],
+        [
+          19.3695,
+          -29.373166666666666
+        ],
+        [
+          18.694333333333333,
+          -29.233333333333334
+        ],
+        [
+          17.9075,
+          -28.983333333333334
+        ],
+        [
+          17.06983333333333,
+          -28.845666666666666
+        ],
+        [
+          16.074666666666666,
+          -28.749833333333335
+        ],
+        [
+          15.018166666666668,
+          -28.719666666666665
+        ]
+      ]
+    },
+    "FRA27": {
+      "key": "FRA27",
+      "timestamp": 1732051800000,
+      "sail": "FRA 27",
+      "country": "FRA",
+      "skipper": "Isabelle Joschke",
+      "skipperLink": "https://www.vendeeglobe.org/skippers/isabelle-joschke",
+      "boat": "MACSF",
+      "rank": 25,
+      "abort": false,
+      "heading": 172,
+      "lat_ddm": "14°35.52'N",
+      "lon_ddm": "30°52.55'W",
+      "lat_dec": 14.592,
+      "lon_dec": -30.875833333333333,
+      "last_30mn_heading": 172,
+      "last_30mn_speed": 20.3,
+      "last_30mn_vmg": 20.2,
+      "last_30mn_distance": 10.2,
+      "last_24h_distance": 74.4,
+      "last_24h_heading": 181,
+      "last_24h_speed": 18.6,
+      "last_24h_vmg": 18,
+      "last_report_distance": 309.5,
+      "last_report_heading": 178,
+      "last_report_speed": 12.9,
+      "last_report_vmg": 12.7,
+      "dtf": 22101.5,
+      "dtl": 292.4,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "down",
+      "foiler": true,
+      "color": "#D3D3D3",
+      "colorFoil": "#DC6F3D",
+      "colorMiddle": "#FFFFFF",
+      "colorInside": "#D13334",
+      "track": [
+        [
+          46.4637857,
+          -1.7951899
+        ],
+        [
+          46.47966666666667,
+          -2.3375
+        ],
+        [
+          46.3105,
+          -2.3708333333333336
+        ],
+        [
+          45.76016666666666,
+          -2.5113333333333334
+        ],
+        [
+          45.81,
+          -3.560833333333333
+        ],
+        [
+          45.2545,
+          -3.889666666666667
+        ],
+        [
+          45.281666666666666,
+          -5.4275
+        ],
+        [
+          45.3105,
+          -6.679333333333333
+        ],
+        [
+          44.3275,
+          -7.306333333333333
+        ],
+        [
+          43.824333333333335,
+          -7.9665
+        ],
+        [
+          43.7615,
+          -9.0455
+        ],
+        [
+          43.765166666666666,
+          -10.072
+        ],
+        [
+          42.883,
+          -10.438666666666666
+        ],
+        [
+          42.15133333333333,
+          -11.189166666666667
+        ],
+        [
+          41.91616666666667,
+          -12.325333333333333
+        ],
+        [
+          41.458333333333336,
+          -12.924333333333333
+        ],
+        [
+          40.19,
+          -12.736166666666668
+        ],
+        [
+          39.025,
+          -12.462333333333333
+        ],
+        [
+          38.096666666666664,
+          -12.222666666666667
+        ],
+        [
+          37.35216666666667,
+          -12.622
+        ],
+        [
+          36.767,
+          -13.703833333333334
+        ],
+        [
+          36.16833333333334,
+          -14.271333333333333
+        ],
+        [
+          35.632333333333335,
+          -15.615
+        ],
+        [
+          35.05716666666667,
+          -16.7005
+        ],
+        [
+          34.405833333333334,
+          -17.764499999999998
+        ],
+        [
+          33.56666666666667,
+          -18.659166666666668
+        ],
+        [
+          32.4565,
+          -19.632166666666667
+        ],
+        [
+          31.329666666666668,
+          -20.6885
+        ],
+        [
+          30.389,
+          -21.756
+        ],
+        [
+          29.642666666666667,
+          -22.7985
+        ],
+        [
+          29.000833333333333,
+          -23.418333333333333
+        ],
+        [
+          28.3835,
+          -24.010166666666667
+        ],
+        [
+          28.1085,
+          -24.574833333333334
+        ],
+        [
+          27.696,
+          -24.936166666666665
+        ],
+        [
+          27.3745,
+          -25.295166666666667
+        ],
+        [
+          26.940166666666666,
+          -25.971833333333333
+        ],
+        [
+          26.792833333333334,
+          -26.613333333333333
+        ],
+        [
+          26.536833333333334,
+          -27.194666666666667
+        ],
+        [
+          25.985333333333333,
+          -27.919166666666666
+        ],
+        [
+          25.5575,
+          -28.8435
+        ],
+        [
+          25.3545,
+          -29.671
+        ],
+        [
+          25.17716666666667,
+          -30.316166666666668
+        ],
+        [
+          24.8025,
+          -31.032
+        ],
+        [
+          24.504,
+          -31.854166666666668
+        ],
+        [
+          24.229666666666667,
+          -32.533
+        ],
+        [
+          23.576666666666668,
+          -32.5035
+        ],
+        [
+          22.712333333333333,
+          -32.337833333333336
+        ],
+        [
+          22.076,
+          -32.28633333333333
+        ],
+        [
+          21.539166666666667,
+          -32.100833333333334
+        ],
+        [
+          20.8795,
+          -31.665
+        ],
+        [
+          20.401666666666667,
+          -31.3635
+        ],
+        [
+          19.743666666666666,
+          -31.059833333333334
+        ],
+        [
+          18.9215,
+          -30.924166666666668
+        ],
+        [
+          18.333833333333335,
+          -30.955166666666667
+        ],
+        [
+          17.841666666666665,
+          -30.914166666666667
+        ],
+        [
+          16.927833333333332,
+          -30.7755
+        ],
+        [
+          15.830166666666667,
+          -30.842666666666666
+        ],
+        [
+          14.592,
+          -30.875833333333333
         ]
       ]
     },
     "FRA172": {
       "key": "FRA172",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 172",
       "country": "FRA",
       "skipper": "Louis Duc",
@@ -6685,27 +6785,27 @@
       "boat": "Fives Group - Lantana Environnement",
       "rank": 26,
       "abort": false,
-      "heading": 175,
-      "lat_ddm": "16°01.01'N",
-      "lon_ddm": "31°01.52'W",
-      "lat_dec": 16.016833333333334,
-      "lon_dec": -31.025333333333332,
-      "last_30mn_heading": 175,
-      "last_30mn_speed": 16.8,
-      "last_30mn_vmg": 16.6,
-      "last_30mn_distance": 8.4,
-      "last_24h_distance": 58.5,
+      "heading": 172,
+      "lat_ddm": "14°59.12'N",
+      "lon_ddm": "30°55.24'W",
+      "lat_dec": 14.985333333333333,
+      "lon_dec": -30.920666666666666,
+      "last_30mn_heading": 172,
+      "last_30mn_speed": 16.1,
+      "last_30mn_vmg": 16,
+      "last_30mn_distance": 8.1,
+      "last_24h_distance": 62.2,
       "last_24h_heading": 174,
-      "last_24h_speed": 14.6,
-      "last_24h_vmg": 14.5,
-      "last_report_distance": 271.8,
-      "last_report_heading": 171,
-      "last_report_speed": 11.3,
-      "last_report_vmg": 11.3,
-      "dtf": 22186.8,
-      "dtl": 288.1,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "down",
+      "last_24h_speed": 15.6,
+      "last_24h_vmg": 15.4,
+      "last_report_distance": 291.6,
+      "last_report_heading": 173,
+      "last_report_speed": 12.1,
+      "last_report_vmg": 12.1,
+      "dtf": 22125.1,
+      "dtl": 316,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "eq",
       "foiler": false,
       "color": "#980D65",
       "colorFoil": "#DC6F3D",
@@ -6939,12 +7039,16 @@
         [
           16.016833333333334,
           -31.025333333333332
+        ],
+        [
+          14.985333333333333,
+          -30.920666666666666
         ]
       ]
     },
     "FRA1000": {
       "key": "FRA1000",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 1000",
       "country": "FRA",
       "skipper": "Tanguy Le Turquais",
@@ -6952,26 +7056,26 @@
       "boat": "Lazare",
       "rank": 27,
       "abort": false,
-      "heading": 169,
-      "lat_ddm": "16°21.69'N",
-      "lon_ddm": "30°11.94'W",
-      "lat_dec": 16.3615,
-      "lon_dec": -30.199,
-      "last_30mn_heading": 169,
-      "last_30mn_speed": 14.7,
-      "last_30mn_vmg": 14.7,
-      "last_30mn_distance": 7.3,
-      "last_24h_distance": 56.3,
-      "last_24h_heading": 169,
-      "last_24h_speed": 14.1,
-      "last_24h_vmg": 14.1,
-      "last_report_distance": 275.6,
-      "last_report_heading": 165,
-      "last_report_speed": 11.5,
-      "last_report_vmg": 11.5,
-      "dtf": 22196.6,
-      "dtl": 298,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 175,
+      "lat_ddm": "15°18.02'N",
+      "lon_ddm": "30°02.68'W",
+      "lat_dec": 15.300333333333333,
+      "lon_dec": -30.044666666666668,
+      "last_30mn_heading": 175,
+      "last_30mn_speed": 15.7,
+      "last_30mn_vmg": 15.6,
+      "last_30mn_distance": 7.9,
+      "last_24h_distance": 64.3,
+      "last_24h_heading": 172,
+      "last_24h_speed": 16.1,
+      "last_24h_vmg": 16,
+      "last_report_distance": 300.1,
+      "last_report_heading": 167,
+      "last_report_speed": 12.5,
+      "last_report_vmg": 12.5,
+      "dtf": 22132.4,
+      "dtl": 323.4,
+      "total_time": "9d 9h 28m 0s",
       "progress": "eq",
       "foiler": false,
       "color": "#8E214B",
@@ -7206,12 +7310,16 @@
         [
           16.3615,
           -30.199
+        ],
+        [
+          15.300333333333333,
+          -30.044666666666668
         ]
       ]
     },
     "ITA34": {
       "key": "ITA34",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "ITA 34",
       "country": "ITA",
       "skipper": "Giancarlo Pedote",
@@ -7219,27 +7327,27 @@
       "boat": "Prysmian",
       "rank": 28,
       "abort": false,
-      "heading": 170,
-      "lat_ddm": "17°04.09'N",
-      "lon_ddm": "27°06.42'W",
-      "lat_dec": 17.068166666666666,
-      "lon_dec": -27.107,
-      "last_30mn_heading": 170,
-      "last_30mn_speed": 18.2,
-      "last_30mn_vmg": 18.1,
-      "last_30mn_distance": 9.1,
-      "last_24h_distance": 56.6,
-      "last_24h_heading": 162,
-      "last_24h_speed": 14.1,
-      "last_24h_vmg": 13.9,
-      "last_report_distance": 230.8,
-      "last_report_heading": 158,
-      "last_report_speed": 9.6,
-      "last_report_vmg": 9.4,
-      "dtf": 22207.3,
-      "dtl": 308.6,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "up",
+      "heading": 185,
+      "lat_ddm": "16°00.20'N",
+      "lon_ddm": "27°13.31'W",
+      "lat_dec": 16.003333333333334,
+      "lon_dec": -27.221833333333333,
+      "last_30mn_heading": 185,
+      "last_30mn_speed": 20.1,
+      "last_30mn_vmg": 19.6,
+      "last_30mn_distance": 10,
+      "last_24h_distance": 64.3,
+      "last_24h_heading": 186,
+      "last_24h_speed": 16.1,
+      "last_24h_vmg": 15.7,
+      "last_report_distance": 245,
+      "last_report_heading": 166,
+      "last_report_speed": 10.2,
+      "last_report_vmg": 10.2,
+      "dtf": 22144.8,
+      "dtl": 335.7,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "eq",
       "foiler": true,
       "color": "#FFFFFF",
       "colorFoil": "#DC6F3D",
@@ -7473,39 +7581,314 @@
         [
           17.068166666666666,
           -27.107
+        ],
+        [
+          16.003333333333334,
+          -27.221833333333333
+        ]
+      ]
+    },
+    "FRA01": {
+      "key": "FRA01",
+      "timestamp": 1732051800000,
+      "sail": "FRA 01",
+      "country": "FRA",
+      "skipper": "Violette Dorange",
+      "skipperLink": "https://www.vendeeglobe.org/skippers/violette-dorange",
+      "boat": "DeVenir",
+      "rank": 29,
+      "abort": false,
+      "heading": 187,
+      "lat_ddm": "15°42.44'N",
+      "lon_ddm": "29°22.90'W",
+      "lat_dec": 15.707333333333333,
+      "lon_dec": -29.381666666666668,
+      "last_30mn_heading": 187,
+      "last_30mn_speed": 17.2,
+      "last_30mn_vmg": 16.3,
+      "last_30mn_distance": 8.6,
+      "last_24h_distance": 67.6,
+      "last_24h_heading": 184,
+      "last_24h_speed": 16.9,
+      "last_24h_vmg": 16.3,
+      "last_report_distance": 288.8,
+      "last_report_heading": 179,
+      "last_report_speed": 12,
+      "last_report_vmg": 11.9,
+      "dtf": 22148.7,
+      "dtl": 339.6,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "up",
+      "foiler": false,
+      "color": "#FFFFFF",
+      "colorFoil": "#DC6F3D",
+      "colorMiddle": "#F5BF31",
+      "colorInside": "#080B10",
+      "track": [
+        [
+          46.4637857,
+          -1.7951899
+        ],
+        [
+          46.3955,
+          -2.3368333333333333
+        ],
+        [
+          46.40566666666667,
+          -2.5693333333333332
+        ],
+        [
+          45.717333333333336,
+          -2.855166666666667
+        ],
+        [
+          45.394,
+          -3.676
+        ],
+        [
+          44.934333333333335,
+          -4.312833333333334
+        ],
+        [
+          44.906666666666666,
+          -5.415166666666667
+        ],
+        [
+          44.699,
+          -6.270333333333333
+        ],
+        [
+          43.95633333333333,
+          -7.02
+        ],
+        [
+          44.12166666666667,
+          -8.186
+        ],
+        [
+          43.796166666666664,
+          -9.182333333333334
+        ],
+        [
+          43.56966666666667,
+          -10.214666666666666
+        ],
+        [
+          42.51416666666667,
+          -10.7005
+        ],
+        [
+          41.43333333333333,
+          -11.021
+        ],
+        [
+          40.6775,
+          -11.616333333333333
+        ],
+        [
+          39.678333333333335,
+          -11.449166666666667
+        ],
+        [
+          38.913333333333334,
+          -11.8975
+        ],
+        [
+          38.293,
+          -13.055333333333333
+        ],
+        [
+          37.617666666666665,
+          -13.997
+        ],
+        [
+          36.86833333333333,
+          -14.565833333333334
+        ],
+        [
+          36.2005,
+          -15.493
+        ],
+        [
+          35.467166666666664,
+          -16.468833333333333
+        ],
+        [
+          34.71066666666667,
+          -17.2955
+        ],
+        [
+          34.032,
+          -18.1615
+        ],
+        [
+          33.221833333333336,
+          -18.862333333333332
+        ],
+        [
+          32.46216666666667,
+          -19.643666666666668
+        ],
+        [
+          31.6755,
+          -20.242166666666666
+        ],
+        [
+          30.7605,
+          -20.8715
+        ],
+        [
+          30.023333333333333,
+          -21.641
+        ],
+        [
+          29.2465,
+          -22.283333333333335
+        ],
+        [
+          28.594,
+          -23.106166666666667
+        ],
+        [
+          28.124,
+          -23.707166666666666
+        ],
+        [
+          27.675666666666668,
+          -24.187666666666665
+        ],
+        [
+          27.118666666666666,
+          -24.503666666666668
+        ],
+        [
+          26.938,
+          -24.8105
+        ],
+        [
+          26.583833333333335,
+          -24.949166666666667
+        ],
+        [
+          26.225833333333334,
+          -25.223
+        ],
+        [
+          26.177833333333332,
+          -25.8065
+        ],
+        [
+          25.942666666666668,
+          -26.181
+        ],
+        [
+          25.460166666666666,
+          -26.6255
+        ],
+        [
+          24.957,
+          -26.9535
+        ],
+        [
+          24.5335,
+          -27.372666666666667
+        ],
+        [
+          24.239833333333333,
+          -27.882833333333334
+        ],
+        [
+          23.889333333333333,
+          -28.339
+        ],
+        [
+          23.609166666666667,
+          -28.820666666666668
+        ],
+        [
+          23.270666666666667,
+          -29.204
+        ],
+        [
+          22.735500000000002,
+          -29.160833333333333
+        ],
+        [
+          22.430333333333333,
+          -29.335
+        ],
+        [
+          22.19483333333333,
+          -29.661166666666666
+        ],
+        [
+          21.703333333333333,
+          -29.523666666666667
+        ],
+        [
+          21.1465,
+          -29.409166666666668
+        ],
+        [
+          20.516833333333334,
+          -29.4395
+        ],
+        [
+          19.901,
+          -29.5095
+        ],
+        [
+          19.281166666666667,
+          -29.424666666666667
+        ],
+        [
+          18.636,
+          -29.286833333333334
+        ],
+        [
+          17.791833333333333,
+          -29.354166666666668
+        ],
+        [
+          16.83,
+          -29.301833333333335
+        ],
+        [
+          15.707333333333333,
+          -29.381666666666668
         ]
       ]
     },
     "FRA1461": {
       "key": "FRA1461",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 1461",
       "country": "FRA",
       "skipper": "Antoine Cornic",
       "skipperLink": "https://www.vendeeglobe.org/skippers/antoine-cornic",
       "boat": "HUMAN Immobilier",
-      "rank": 29,
+      "rank": 30,
       "abort": false,
-      "heading": 180,
-      "lat_ddm": "17°01.35'N",
-      "lon_ddm": "27°48.49'W",
-      "lat_dec": 17.0225,
-      "lon_dec": -27.808166666666665,
-      "last_30mn_heading": 180,
-      "last_30mn_speed": 11.8,
-      "last_30mn_vmg": 11.7,
-      "last_30mn_distance": 5.9,
-      "last_24h_distance": 43.3,
-      "last_24h_heading": 175,
-      "last_24h_speed": 10.8,
-      "last_24h_vmg": 10.8,
-      "last_report_distance": 156.1,
-      "last_report_heading": 180,
-      "last_report_speed": 6.5,
-      "last_report_vmg": 6.4,
-      "dtf": 22210.4,
-      "dtl": 311.7,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 183,
+      "lat_ddm": "16°06.12'N",
+      "lon_ddm": "27°52.04'W",
+      "lat_dec": 16.102,
+      "lon_dec": -27.867333333333335,
+      "last_30mn_heading": 183,
+      "last_30mn_speed": 14.5,
+      "last_30mn_vmg": 14.1,
+      "last_30mn_distance": 7.2,
+      "last_24h_distance": 55.4,
+      "last_24h_heading": 184,
+      "last_24h_speed": 13.8,
+      "last_24h_vmg": 13.5,
+      "last_report_distance": 184.6,
+      "last_report_heading": 181,
+      "last_report_speed": 7.7,
+      "last_report_vmg": 7.6,
+      "dtf": 22156.3,
+      "dtl": 347.3,
+      "total_time": "9d 9h 28m 0s",
       "progress": "down",
       "foiler": false,
       "color": "#385F89",
@@ -7740,279 +8123,16 @@
         [
           17.0225,
           -27.808166666666665
-        ]
-      ]
-    },
-    "FRA01": {
-      "key": "FRA01",
-      "timestamp": 1732037400000,
-      "sail": "FRA 01",
-      "country": "FRA",
-      "skipper": "Violette Dorange",
-      "skipperLink": "https://www.vendeeglobe.org/skippers/violette-dorange",
-      "boat": "DeVenir",
-      "rank": 30,
-      "abort": false,
-      "heading": 182,
-      "lat_ddm": "16°49.80'N",
-      "lon_ddm": "29°18.11'W",
-      "lat_dec": 16.83,
-      "lon_dec": -29.301833333333335,
-      "last_30mn_heading": 182,
-      "last_30mn_speed": 15.4,
-      "last_30mn_vmg": 15,
-      "last_30mn_distance": 7.7,
-      "last_24h_distance": 57.8,
-      "last_24h_heading": 177,
-      "last_24h_speed": 14.5,
-      "last_24h_vmg": 14.3,
-      "last_report_distance": 259.2,
-      "last_report_heading": 179,
-      "last_report_speed": 10.8,
-      "last_report_vmg": 10.7,
-      "dtf": 22213.9,
-      "dtl": 315.3,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "eq",
-      "foiler": false,
-      "color": "#FFFFFF",
-      "colorFoil": "#DC6F3D",
-      "colorMiddle": "#F5BF31",
-      "colorInside": "#080B10",
-      "track": [
-        [
-          46.4637857,
-          -1.7951899
         ],
         [
-          46.3955,
-          -2.3368333333333333
-        ],
-        [
-          46.40566666666667,
-          -2.5693333333333332
-        ],
-        [
-          45.717333333333336,
-          -2.855166666666667
-        ],
-        [
-          45.394,
-          -3.676
-        ],
-        [
-          44.934333333333335,
-          -4.312833333333334
-        ],
-        [
-          44.906666666666666,
-          -5.415166666666667
-        ],
-        [
-          44.699,
-          -6.270333333333333
-        ],
-        [
-          43.95633333333333,
-          -7.02
-        ],
-        [
-          44.12166666666667,
-          -8.186
-        ],
-        [
-          43.796166666666664,
-          -9.182333333333334
-        ],
-        [
-          43.56966666666667,
-          -10.214666666666666
-        ],
-        [
-          42.51416666666667,
-          -10.7005
-        ],
-        [
-          41.43333333333333,
-          -11.021
-        ],
-        [
-          40.6775,
-          -11.616333333333333
-        ],
-        [
-          39.678333333333335,
-          -11.449166666666667
-        ],
-        [
-          38.913333333333334,
-          -11.8975
-        ],
-        [
-          38.293,
-          -13.055333333333333
-        ],
-        [
-          37.617666666666665,
-          -13.997
-        ],
-        [
-          36.86833333333333,
-          -14.565833333333334
-        ],
-        [
-          36.2005,
-          -15.493
-        ],
-        [
-          35.467166666666664,
-          -16.468833333333333
-        ],
-        [
-          34.71066666666667,
-          -17.2955
-        ],
-        [
-          34.032,
-          -18.1615
-        ],
-        [
-          33.221833333333336,
-          -18.862333333333332
-        ],
-        [
-          32.46216666666667,
-          -19.643666666666668
-        ],
-        [
-          31.6755,
-          -20.242166666666666
-        ],
-        [
-          30.7605,
-          -20.8715
-        ],
-        [
-          30.023333333333333,
-          -21.641
-        ],
-        [
-          29.2465,
-          -22.283333333333335
-        ],
-        [
-          28.594,
-          -23.106166666666667
-        ],
-        [
-          28.124,
-          -23.707166666666666
-        ],
-        [
-          27.675666666666668,
-          -24.187666666666665
-        ],
-        [
-          27.118666666666666,
-          -24.503666666666668
-        ],
-        [
-          26.938,
-          -24.8105
-        ],
-        [
-          26.583833333333335,
-          -24.949166666666667
-        ],
-        [
-          26.225833333333334,
-          -25.223
-        ],
-        [
-          26.177833333333332,
-          -25.8065
-        ],
-        [
-          25.942666666666668,
-          -26.181
-        ],
-        [
-          25.460166666666666,
-          -26.6255
-        ],
-        [
-          24.957,
-          -26.9535
-        ],
-        [
-          24.5335,
-          -27.372666666666667
-        ],
-        [
-          24.239833333333333,
-          -27.882833333333334
-        ],
-        [
-          23.889333333333333,
-          -28.339
-        ],
-        [
-          23.609166666666667,
-          -28.820666666666668
-        ],
-        [
-          23.270666666666667,
-          -29.204
-        ],
-        [
-          22.735500000000002,
-          -29.160833333333333
-        ],
-        [
-          22.430333333333333,
-          -29.335
-        ],
-        [
-          22.19483333333333,
-          -29.661166666666666
-        ],
-        [
-          21.703333333333333,
-          -29.523666666666667
-        ],
-        [
-          21.1465,
-          -29.409166666666668
-        ],
-        [
-          20.516833333333334,
-          -29.4395
-        ],
-        [
-          19.901,
-          -29.5095
-        ],
-        [
-          19.281166666666667,
-          -29.424666666666667
-        ],
-        [
-          18.636,
-          -29.286833333333334
-        ],
-        [
-          17.791833333333333,
-          -29.354166666666668
-        ],
-        [
-          16.83,
-          -29.301833333333335
+          16.102,
+          -27.867333333333335
         ]
       ]
     },
     "FRA22": {
       "key": "FRA22",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 22",
       "country": "FRA",
       "skipper": "Guirec Soudée",
@@ -8020,26 +8140,26 @@
       "boat": "Freelance.com",
       "rank": 31,
       "abort": false,
-      "heading": 182,
-      "lat_ddm": "16°49.56'N",
-      "lon_ddm": "30°36.41'W",
-      "lat_dec": 16.826,
-      "lon_dec": -30.606833333333334,
-      "last_30mn_heading": 182,
-      "last_30mn_speed": 14.3,
-      "last_30mn_vmg": 13.8,
-      "last_30mn_distance": 7.1,
-      "last_24h_distance": 59.4,
-      "last_24h_heading": 174,
-      "last_24h_speed": 14.9,
-      "last_24h_vmg": 14.8,
-      "last_report_distance": 257.3,
+      "heading": 177,
+      "lat_ddm": "15°46.92'N",
+      "lon_ddm": "30°36.63'W",
+      "lat_dec": 15.782,
+      "lon_dec": -30.610500000000002,
+      "last_30mn_heading": 177,
+      "last_30mn_speed": 14.7,
+      "last_30mn_vmg": 14.5,
+      "last_30mn_distance": 7.4,
+      "last_24h_distance": 62.7,
+      "last_24h_heading": 180,
+      "last_24h_speed": 15.7,
+      "last_24h_vmg": 15.3,
+      "last_report_distance": 288.9,
       "last_report_heading": 176,
-      "last_report_speed": 10.7,
-      "last_report_vmg": 10.6,
-      "dtf": 22228.8,
-      "dtl": 330.2,
-      "total_time": "9d 5h 28m 0s",
+      "last_report_speed": 12,
+      "last_report_vmg": 11.9,
+      "dtf": 22167.7,
+      "dtl": 358.6,
+      "total_time": "9d 9h 28m 0s",
       "progress": "eq",
       "foiler": false,
       "color": "#FFFFFF",
@@ -8274,307 +8394,44 @@
         [
           16.826,
           -30.606833333333334
-        ]
-      ]
-    },
-    "FRA56": {
-      "key": "FRA56",
-      "timestamp": 1732037400000,
-      "sail": "FRA 56",
-      "country": "FRA",
-      "skipper": "Fabrice Amedeo",
-      "skipperLink": "https://www.vendeeglobe.org/skippers/fabrice-amedeo",
-      "boat": "Nexans - Wewise",
-      "rank": 32,
-      "abort": false,
-      "heading": 188,
-      "lat_ddm": "17°19.26'N",
-      "lon_ddm": "28°49.38'W",
-      "lat_dec": 17.321,
-      "lon_dec": -28.823,
-      "last_30mn_heading": 188,
-      "last_30mn_speed": 13.8,
-      "last_30mn_vmg": 13.1,
-      "last_30mn_distance": 6.9,
-      "last_24h_distance": 52.9,
-      "last_24h_heading": 183,
-      "last_24h_speed": 13.2,
-      "last_24h_vmg": 12.9,
-      "last_report_distance": 245.6,
-      "last_report_heading": 168,
-      "last_report_speed": 10.2,
-      "last_report_vmg": 10.2,
-      "dtf": 22237.8,
-      "dtl": 339.2,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "eq",
-      "foiler": false,
-      "color": "#1D1E1C",
-      "colorFoil": "#DC6F3D",
-      "colorMiddle": "#449BD4",
-      "colorInside": "#FFFFFF",
-      "track": [
-        [
-          46.4637857,
-          -1.7951899
         ],
         [
-          46.436,
-          -2.2408333333333332
-        ],
-        [
-          46.45616666666667,
-          -2.5035
-        ],
-        [
-          45.81616666666667,
-          -2.7976666666666667
-        ],
-        [
-          45.57416666666667,
-          -3.5228333333333333
-        ],
-        [
-          45.28666666666667,
-          -4.4255
-        ],
-        [
-          45.1035,
-          -5.524
-        ],
-        [
-          45.01683333333333,
-          -6.566166666666667
-        ],
-        [
-          44.66833333333334,
-          -7.237666666666667
-        ],
-        [
-          43.93416666666667,
-          -7.884833333333333
-        ],
-        [
-          43.6045,
-          -8.862333333333334
-        ],
-        [
-          42.96633333333333,
-          -9.526333333333334
-        ],
-        [
-          42.330333333333336,
-          -10.050666666666666
-        ],
-        [
-          41.955,
-          -11.217166666666667
-        ],
-        [
-          41.32816666666667,
-          -12.052333333333333
-        ],
-        [
-          40.531333333333336,
-          -12.426166666666667
-        ],
-        [
-          40.0685,
-          -13.563833333333333
-        ],
-        [
-          39.411833333333334,
-          -14.298833333333333
-        ],
-        [
-          38.49033333333333,
-          -14.410833333333333
-        ],
-        [
-          37.6595,
-          -14.413166666666667
-        ],
-        [
-          36.971833333333336,
-          -15.139
-        ],
-        [
-          36.19083333333333,
-          -15.870333333333333
-        ],
-        [
-          35.529833333333336,
-          -16.587
-        ],
-        [
-          34.9945,
-          -17.367333333333335
-        ],
-        [
-          34.47116666666667,
-          -18.128833333333333
-        ],
-        [
-          33.83133333333333,
-          -18.904
-        ],
-        [
-          32.99583333333333,
-          -19.7075
-        ],
-        [
-          32.220333333333336,
-          -20.392333333333333
-        ],
-        [
-          31.377833333333335,
-          -21.0485
-        ],
-        [
-          30.515,
-          -21.743333333333332
-        ],
-        [
-          29.799,
-          -22.437833333333334
-        ],
-        [
-          29.377166666666668,
-          -23.27316666666667
-        ],
-        [
-          28.882833333333334,
-          -23.965833333333332
-        ],
-        [
-          28.438,
-          -24.486833333333333
-        ],
-        [
-          28.056,
-          -24.828833333333332
-        ],
-        [
-          27.830833333333334,
-          -25.408
-        ],
-        [
-          27.497,
-          -25.863833333333332
-        ],
-        [
-          27.027666666666665,
-          -26.431833333333334
-        ],
-        [
-          26.501333333333335,
-          -26.9975
-        ],
-        [
-          26.088833333333334,
-          -27.627
-        ],
-        [
-          25.769833333333334,
-          -28.280833333333334
-        ],
-        [
-          25.381,
-          -28.907166666666665
-        ],
-        [
-          25.013666666666666,
-          -29.248333333333335
-        ],
-        [
-          24.762833333333333,
-          -29.731666666666666
-        ],
-        [
-          24.387,
-          -30.394833333333334
-        ],
-        [
-          23.925833333333333,
-          -30.5895
-        ],
-        [
-          23.284666666666666,
-          -30.43016666666667
-        ],
-        [
-          22.814666666666668,
-          -30.191833333333335
-        ],
-        [
-          22.354,
-          -30.088
-        ],
-        [
-          21.89966666666667,
-          -29.919666666666668
-        ],
-        [
-          21.316833333333335,
-          -29.7535
-        ],
-        [
-          20.701166666666666,
-          -29.711833333333335
-        ],
-        [
-          20.166333333333334,
-          -29.67
-        ],
-        [
-          19.601333333333333,
-          -29.365666666666666
-        ],
-        [
-          18.992166666666666,
-          -28.944
-        ],
-        [
-          18.200333333333333,
-          -28.7805
-        ],
-        [
-          17.321,
-          -28.823
+          15.782,
+          -30.610500000000002
         ]
       ]
     },
     "JPN11": {
       "key": "JPN11",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "JPN 11",
       "country": "JPN",
       "skipper": "Kojiro Shiraishi",
       "skipperLink": "https://www.vendeeglobe.org/skippers/kojiro-shiraishi",
       "boat": "DMG MORI Global One",
-      "rank": 33,
+      "rank": 32,
       "abort": false,
-      "heading": 180,
-      "lat_ddm": "17°06.66'N",
-      "lon_ddm": "30°45.80'W",
-      "lat_dec": 17.111,
-      "lon_dec": -30.763333333333332,
-      "last_30mn_heading": 180,
-      "last_30mn_speed": 20.8,
-      "last_30mn_vmg": 20.3,
-      "last_30mn_distance": 10.4,
-      "last_24h_distance": 66.1,
-      "last_24h_heading": 178,
-      "last_24h_speed": 16.5,
-      "last_24h_vmg": 16.2,
-      "last_report_distance": 273.5,
-      "last_report_heading": 173,
-      "last_report_speed": 11.4,
-      "last_report_vmg": 11.3,
-      "dtf": 22247.5,
-      "dtl": 348.9,
-      "total_time": "9d 5h 28m 0s",
-      "progress": "eq",
+      "heading": 170,
+      "lat_ddm": "15°55.93'N",
+      "lon_ddm": "30°42.03'W",
+      "lat_dec": 15.932166666666667,
+      "lon_dec": -30.7005,
+      "last_30mn_heading": 170,
+      "last_30mn_speed": 16,
+      "last_30mn_vmg": 16,
+      "last_30mn_distance": 8,
+      "last_24h_distance": 70.9,
+      "last_24h_heading": 177,
+      "last_24h_speed": 17.7,
+      "last_24h_vmg": 17.5,
+      "last_report_distance": 314,
+      "last_report_heading": 174,
+      "last_report_speed": 13.1,
+      "last_report_vmg": 13,
+      "dtf": 22177.6,
+      "dtl": 368.6,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "up",
       "foiler": true,
       "color": "#D0D0D0",
       "colorFoil": "#DC6F3D",
@@ -8808,12 +8665,287 @@
         [
           17.111,
           -30.763333333333332
+        ],
+        [
+          15.932166666666667,
+          -30.7005
+        ]
+      ]
+    },
+    "FRA56": {
+      "key": "FRA56",
+      "timestamp": 1732051800000,
+      "sail": "FRA 56",
+      "country": "FRA",
+      "skipper": "Fabrice Amedeo",
+      "skipperLink": "https://www.vendeeglobe.org/skippers/fabrice-amedeo",
+      "boat": "Nexans - Wewise",
+      "rank": 33,
+      "abort": false,
+      "heading": 216,
+      "lat_ddm": "16°34.81'N",
+      "lon_ddm": "29°07.58'W",
+      "lat_dec": 16.580166666666667,
+      "lon_dec": -29.126333333333335,
+      "last_30mn_heading": 216,
+      "last_30mn_speed": 11.8,
+      "last_30mn_vmg": 8.1,
+      "last_30mn_distance": 5.9,
+      "last_24h_distance": 47.8,
+      "last_24h_heading": 201,
+      "last_24h_speed": 11.9,
+      "last_24h_vmg": 10.2,
+      "last_report_distance": 249.7,
+      "last_report_heading": 172,
+      "last_report_speed": 10.4,
+      "last_report_vmg": 10.4,
+      "dtf": 22197.3,
+      "dtl": 388.2,
+      "total_time": "9d 9h 28m 0s",
+      "progress": "down",
+      "foiler": false,
+      "color": "#1D1E1C",
+      "colorFoil": "#DC6F3D",
+      "colorMiddle": "#449BD4",
+      "colorInside": "#FFFFFF",
+      "track": [
+        [
+          46.4637857,
+          -1.7951899
+        ],
+        [
+          46.436,
+          -2.2408333333333332
+        ],
+        [
+          46.45616666666667,
+          -2.5035
+        ],
+        [
+          45.81616666666667,
+          -2.7976666666666667
+        ],
+        [
+          45.57416666666667,
+          -3.5228333333333333
+        ],
+        [
+          45.28666666666667,
+          -4.4255
+        ],
+        [
+          45.1035,
+          -5.524
+        ],
+        [
+          45.01683333333333,
+          -6.566166666666667
+        ],
+        [
+          44.66833333333334,
+          -7.237666666666667
+        ],
+        [
+          43.93416666666667,
+          -7.884833333333333
+        ],
+        [
+          43.6045,
+          -8.862333333333334
+        ],
+        [
+          42.96633333333333,
+          -9.526333333333334
+        ],
+        [
+          42.330333333333336,
+          -10.050666666666666
+        ],
+        [
+          41.955,
+          -11.217166666666667
+        ],
+        [
+          41.32816666666667,
+          -12.052333333333333
+        ],
+        [
+          40.531333333333336,
+          -12.426166666666667
+        ],
+        [
+          40.0685,
+          -13.563833333333333
+        ],
+        [
+          39.411833333333334,
+          -14.298833333333333
+        ],
+        [
+          38.49033333333333,
+          -14.410833333333333
+        ],
+        [
+          37.6595,
+          -14.413166666666667
+        ],
+        [
+          36.971833333333336,
+          -15.139
+        ],
+        [
+          36.19083333333333,
+          -15.870333333333333
+        ],
+        [
+          35.529833333333336,
+          -16.587
+        ],
+        [
+          34.9945,
+          -17.367333333333335
+        ],
+        [
+          34.47116666666667,
+          -18.128833333333333
+        ],
+        [
+          33.83133333333333,
+          -18.904
+        ],
+        [
+          32.99583333333333,
+          -19.7075
+        ],
+        [
+          32.220333333333336,
+          -20.392333333333333
+        ],
+        [
+          31.377833333333335,
+          -21.0485
+        ],
+        [
+          30.515,
+          -21.743333333333332
+        ],
+        [
+          29.799,
+          -22.437833333333334
+        ],
+        [
+          29.377166666666668,
+          -23.27316666666667
+        ],
+        [
+          28.882833333333334,
+          -23.965833333333332
+        ],
+        [
+          28.438,
+          -24.486833333333333
+        ],
+        [
+          28.056,
+          -24.828833333333332
+        ],
+        [
+          27.830833333333334,
+          -25.408
+        ],
+        [
+          27.497,
+          -25.863833333333332
+        ],
+        [
+          27.027666666666665,
+          -26.431833333333334
+        ],
+        [
+          26.501333333333335,
+          -26.9975
+        ],
+        [
+          26.088833333333334,
+          -27.627
+        ],
+        [
+          25.769833333333334,
+          -28.280833333333334
+        ],
+        [
+          25.381,
+          -28.907166666666665
+        ],
+        [
+          25.013666666666666,
+          -29.248333333333335
+        ],
+        [
+          24.762833333333333,
+          -29.731666666666666
+        ],
+        [
+          24.387,
+          -30.394833333333334
+        ],
+        [
+          23.925833333333333,
+          -30.5895
+        ],
+        [
+          23.284666666666666,
+          -30.43016666666667
+        ],
+        [
+          22.814666666666668,
+          -30.191833333333335
+        ],
+        [
+          22.354,
+          -30.088
+        ],
+        [
+          21.89966666666667,
+          -29.919666666666668
+        ],
+        [
+          21.316833333333335,
+          -29.7535
+        ],
+        [
+          20.701166666666666,
+          -29.711833333333335
+        ],
+        [
+          20.166333333333334,
+          -29.67
+        ],
+        [
+          19.601333333333333,
+          -29.365666666666666
+        ],
+        [
+          18.992166666666666,
+          -28.944
+        ],
+        [
+          18.200333333333333,
+          -28.7805
+        ],
+        [
+          17.321,
+          -28.823
+        ],
+        [
+          16.580166666666667,
+          -29.126333333333335
         ]
       ]
     },
     "SUI7": {
       "key": "SUI7",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "SUI 7",
       "country": "SUI",
       "skipper": "Alan Roura",
@@ -8821,26 +8953,26 @@
       "boat": "Hublot",
       "rank": 34,
       "abort": false,
-      "heading": 182,
-      "lat_ddm": "18°06.39'N",
-      "lon_ddm": "27°10.53'W",
-      "lat_dec": 18.1065,
-      "lon_dec": -27.1755,
-      "last_30mn_heading": 182,
-      "last_30mn_speed": 14.8,
-      "last_30mn_vmg": 14.7,
-      "last_30mn_distance": 7.4,
-      "last_24h_distance": 54,
-      "last_24h_heading": 174,
-      "last_24h_speed": 13.5,
-      "last_24h_vmg": 13.5,
-      "last_report_distance": 146,
-      "last_report_heading": 197,
-      "last_report_speed": 6.1,
-      "last_report_vmg": 5.7,
-      "dtf": 22269.6,
-      "dtl": 371,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 195,
+      "lat_ddm": "17°03.72'N",
+      "lon_ddm": "27°16.21'W",
+      "lat_dec": 17.062,
+      "lon_dec": -27.270166666666668,
+      "last_30mn_heading": 195,
+      "last_30mn_speed": 14.6,
+      "last_30mn_vmg": 13.4,
+      "last_30mn_distance": 7.3,
+      "last_24h_distance": 62.9,
+      "last_24h_heading": 185,
+      "last_24h_speed": 15.7,
+      "last_24h_vmg": 15.4,
+      "last_report_distance": 200.1,
+      "last_report_heading": 185,
+      "last_report_speed": 8.3,
+      "last_report_vmg": 8.2,
+      "dtf": 22208.1,
+      "dtl": 399,
+      "total_time": "9d 9h 28m 0s",
       "progress": "eq",
       "foiler": true,
       "color": "#1A1A1A",
@@ -9075,12 +9207,16 @@
         [
           18.1065,
           -27.1755
+        ],
+        [
+          17.062,
+          -27.270166666666668
         ]
       ]
     },
     "FRA71": {
       "key": "FRA71",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "FRA 71",
       "country": "FRA",
       "skipper": "Manuel Cousin",
@@ -9088,26 +9224,26 @@
       "boat": "Coup de Pouce",
       "rank": 35,
       "abort": false,
-      "heading": 170,
-      "lat_ddm": "17°55.33'N",
-      "lon_ddm": "30°58.06'W",
-      "lat_dec": 17.922166666666666,
-      "lon_dec": -30.967666666666666,
-      "last_30mn_heading": 170,
-      "last_30mn_speed": 14.3,
-      "last_30mn_vmg": 14.3,
+      "heading": 180,
+      "lat_ddm": "16°53.14'N",
+      "lon_ddm": "30°55.85'W",
+      "lat_dec": 16.885666666666665,
+      "lon_dec": -30.930833333333332,
+      "last_30mn_heading": 180,
+      "last_30mn_speed": 14.4,
+      "last_30mn_vmg": 14.1,
       "last_30mn_distance": 7.2,
-      "last_24h_distance": 56.1,
-      "last_24h_heading": 172,
-      "last_24h_speed": 14,
-      "last_24h_vmg": 13.9,
-      "last_report_distance": 232.6,
-      "last_report_heading": 172,
-      "last_report_speed": 9.7,
-      "last_report_vmg": 9.7,
-      "dtf": 22297.6,
-      "dtl": 399,
-      "total_time": "9d 5h 28m 0s",
+      "last_24h_distance": 62.3,
+      "last_24h_heading": 178,
+      "last_24h_speed": 15.6,
+      "last_24h_vmg": 15.3,
+      "last_report_distance": 261.9,
+      "last_report_heading": 173,
+      "last_report_speed": 10.9,
+      "last_report_vmg": 10.9,
+      "dtf": 22236.4,
+      "dtl": 427.3,
+      "total_time": "9d 9h 28m 0s",
       "progress": "eq",
       "foiler": false,
       "color": "#0F1E3F",
@@ -9342,12 +9478,16 @@
         [
           17.922166666666666,
           -30.967666666666666
+        ],
+        [
+          16.885666666666665,
+          -30.930833333333332
         ]
       ]
     },
     "SUI49": {
       "key": "SUI49",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "SUI 49",
       "country": "SUI",
       "skipper": "Oliver Heer",
@@ -9355,26 +9495,26 @@
       "boat": "Tut gut.",
       "rank": 36,
       "abort": false,
-      "heading": 173,
-      "lat_ddm": "20°05.05'N",
-      "lon_ddm": "26°47.61'W",
-      "lat_dec": 20.08416666666667,
-      "lon_dec": -26.7935,
-      "last_30mn_heading": 173,
-      "last_30mn_speed": 11.1,
-      "last_30mn_vmg": 11.1,
-      "last_30mn_distance": 5.5,
-      "last_24h_distance": 40.9,
-      "last_24h_heading": 166,
-      "last_24h_speed": 10.2,
-      "last_24h_vmg": 10.1,
-      "last_report_distance": 169,
-      "last_report_heading": 159,
-      "last_report_speed": 7,
-      "last_report_vmg": 6.8,
-      "dtf": 22385.4,
-      "dtl": 486.8,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 191,
+      "lat_ddm": "19°16.52'N",
+      "lon_ddm": "26°52.48'W",
+      "lat_dec": 19.275333333333332,
+      "lon_dec": -26.874666666666666,
+      "last_30mn_heading": 191,
+      "last_30mn_speed": 12.2,
+      "last_30mn_vmg": 11.7,
+      "last_30mn_distance": 6.1,
+      "last_24h_distance": 48.8,
+      "last_24h_heading": 185,
+      "last_24h_speed": 12.2,
+      "last_24h_vmg": 12,
+      "last_report_distance": 187.9,
+      "last_report_heading": 166,
+      "last_report_speed": 7.8,
+      "last_report_vmg": 7.8,
+      "dtf": 22337.5,
+      "dtl": 528.4,
+      "total_time": "9d 9h 28m 0s",
       "progress": "eq",
       "foiler": false,
       "color": "#F3F4F8",
@@ -9609,12 +9749,16 @@
         [
           20.08416666666667,
           -26.7935
+        ],
+        [
+          19.275333333333332,
+          -26.874666666666666
         ]
       ]
     },
     "BEL207": {
       "key": "BEL207",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "BEL 207",
       "country": "BEL",
       "skipper": "Denis Van Weynbergh",
@@ -9622,26 +9766,26 @@
       "boat": "D'Ieteren Group",
       "rank": 37,
       "abort": false,
-      "heading": 205,
-      "lat_ddm": "20°16.45'N",
-      "lon_ddm": "30°27.47'W",
-      "lat_dec": 20.274166666666666,
-      "lon_dec": -30.457833333333333,
-      "last_30mn_heading": 205,
-      "last_30mn_speed": 6.4,
-      "last_30mn_vmg": 5.1,
-      "last_30mn_distance": 3.2,
-      "last_24h_distance": 40.8,
-      "last_24h_heading": 184,
-      "last_24h_speed": 10.2,
-      "last_24h_vmg": 9.8,
-      "last_report_distance": 185.4,
-      "last_report_heading": 191,
-      "last_report_speed": 7.7,
-      "last_report_vmg": 7.2,
-      "dtf": 22429.6,
-      "dtl": 531,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 171,
+      "lat_ddm": "19°34.82'N",
+      "lon_ddm": "30°24.71'W",
+      "lat_dec": 19.580333333333332,
+      "lon_dec": -30.411833333333334,
+      "last_30mn_heading": 171,
+      "last_30mn_speed": 12.8,
+      "last_30mn_vmg": 12.8,
+      "last_30mn_distance": 6.4,
+      "last_24h_distance": 41.7,
+      "last_24h_heading": 176,
+      "last_24h_speed": 10.4,
+      "last_24h_vmg": 10.3,
+      "last_report_distance": 209,
+      "last_report_heading": 183,
+      "last_report_speed": 8.7,
+      "last_report_vmg": 8.5,
+      "dtf": 22388.3,
+      "dtl": 579.2,
+      "total_time": "9d 9h 28m 0s",
       "progress": "eq",
       "foiler": false,
       "color": "#F3F4F8",
@@ -9876,12 +10020,16 @@
         [
           20.274166666666666,
           -30.457833333333333
+        ],
+        [
+          19.580333333333332,
+          -30.411833333333334
         ]
       ]
     },
     "CHN5": {
       "key": "CHN5",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "CHN 5",
       "country": "CHN",
       "skipper": "Jingkun Xu",
@@ -9889,26 +10037,26 @@
       "boat": "Singchain Team Haikou",
       "rank": 38,
       "abort": false,
-      "heading": 176,
-      "lat_ddm": "21°26.54'N",
-      "lon_ddm": "27°54.02'W",
-      "lat_dec": 21.442333333333334,
-      "lon_dec": -27.900333333333332,
-      "last_30mn_heading": 176,
-      "last_30mn_speed": 6.4,
-      "last_30mn_vmg": 6.4,
-      "last_30mn_distance": 3.2,
-      "last_24h_distance": 25,
-      "last_24h_heading": 168,
-      "last_24h_speed": 6.3,
-      "last_24h_vmg": 6.2,
-      "last_report_distance": 141.7,
-      "last_report_heading": 212,
-      "last_report_speed": 5.9,
-      "last_report_vmg": 4.8,
-      "dtf": 22473.5,
-      "dtl": 574.9,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 186,
+      "lat_ddm": "20°55.00'N",
+      "lon_ddm": "27°53.87'W",
+      "lat_dec": 20.916666666666668,
+      "lon_dec": -27.897833333333335,
+      "last_30mn_heading": 186,
+      "last_30mn_speed": 9.6,
+      "last_30mn_vmg": 9.3,
+      "last_30mn_distance": 4.8,
+      "last_24h_distance": 31.6,
+      "last_24h_heading": 180,
+      "last_24h_speed": 7.9,
+      "last_24h_vmg": 7.8,
+      "last_report_distance": 138.6,
+      "last_report_heading": 203,
+      "last_report_speed": 5.8,
+      "last_report_vmg": 5.1,
+      "dtf": 22442.2,
+      "dtl": 633.2,
+      "total_time": "9d 9h 28m 0s",
       "progress": "eq",
       "foiler": true,
       "color": "#D63232",
@@ -10143,12 +10291,16 @@
         [
           21.442333333333334,
           -27.900333333333332
+        ],
+        [
+          20.916666666666668,
+          -27.897833333333335
         ]
       ]
     },
     "HUN23": {
       "key": "HUN23",
-      "timestamp": 1732037400000,
+      "timestamp": 1732051800000,
       "sail": "HUN 23",
       "country": "HUN",
       "skipper": "Szabolcs Weöres",
@@ -10156,26 +10308,26 @@
       "boat": "New Europe",
       "rank": 39,
       "abort": false,
-      "heading": 226,
-      "lat_ddm": "26°29.33'N",
-      "lon_ddm": "15°49.35'W",
-      "lat_dec": 26.488833333333332,
-      "lon_dec": -15.8225,
-      "last_30mn_heading": 226,
-      "last_30mn_speed": 4.5,
-      "last_30mn_vmg": 4.1,
-      "last_30mn_distance": 2.3,
-      "last_24h_distance": 15,
-      "last_24h_heading": 233,
-      "last_24h_speed": 3.7,
-      "last_24h_vmg": 3.1,
-      "last_report_distance": 98.3,
-      "last_report_heading": 194,
-      "last_report_speed": 4.1,
-      "last_report_vmg": 4.1,
-      "dtf": 22851.5,
-      "dtl": 952.9,
-      "total_time": "9d 5h 28m 0s",
+      "heading": 182,
+      "lat_ddm": "26°00.56'N",
+      "lon_ddm": "15°51.21'W",
+      "lat_dec": 26.009333333333334,
+      "lon_dec": -15.8535,
+      "last_30mn_heading": 182,
+      "last_30mn_speed": 8.4,
+      "last_30mn_vmg": 8,
+      "last_30mn_distance": 4.2,
+      "last_24h_distance": 28.8,
+      "last_24h_heading": 183,
+      "last_24h_speed": 7.2,
+      "last_24h_vmg": 6.9,
+      "last_report_distance": 115.7,
+      "last_report_heading": 197,
+      "last_report_speed": 4.8,
+      "last_report_vmg": 4.8,
+      "dtf": 22823.9,
+      "dtl": 1014.8,
+      "total_time": "9d 9h 28m 0s",
       "progress": "eq",
       "foiler": false,
       "color": "#64BF71",
@@ -10410,6 +10562,10 @@
         [
           26.488833333333332,
           -15.8225
+        ],
+        [
+          26.009333333333334,
+          -15.8535
         ]
       ]
     },
