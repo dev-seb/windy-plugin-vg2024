@@ -30,7 +30,13 @@ Sync main data file:
 npm run sync:data
 ```
 
-## Test Plugin
+## Run Plugin
+
+Update sources:
+
+```bash
+git pull
+```
 
 Run plugin locally:
 
@@ -38,14 +44,25 @@ Run plugin locally:
 npm run start
 ```
 
-Visit: https://www.windy.com/developer-mode
+Visit: https://localhost:9999/plugin.js<br />
+And accept the self-signed certificate.
 
-Now you can click on `Install & open Plugin`
+Visit: https://www.windy.com/developer-mode<br />
+And click on `Install & open plugin`
 
-![screenshot](./src/screenshot.jpg 'Screenshot')
+Now the boat tracking should appear with up-to-date data
+
+## Screenshots
+
+_Desktop (fr)_
+![screenshot desktop](./src/screenshot.jpg 'Screenshot Desktop')
+
+_Mobile (en)_
+<br />
+<img src="./src/screenshot_mobile.jpg" alt="Screenshot Mobile" width="320" />
 
 ## To do
 
 -   Add exclusion zones
 -   Add waves data
--   Mobile UI
+-   <s>Mobile UI</s>

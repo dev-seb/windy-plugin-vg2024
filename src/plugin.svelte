@@ -1,3 +1,36 @@
+{#if isMobileOrTablet}
+<section class="mobile-boat-ui plugin__content-mobile">    
+    {#each listOfBoats as data}
+        <div
+            class="boat"
+            on:click={() => highlightTrack(data)}
+            on:mouseover={() => showTrack(data.layer)}
+            on:mouseout={() => hideTrack(data.layer)}            
+        >
+            <div class="boat-rank">
+                {data.rank}
+                <div class="boat-rank-progress {data.progress}"></div>
+            </div>
+            <img class="boat-skipper-photo" src="{baseUrl}/assets/photos/{data.key}.webp" />
+            <div class="boat-content">
+                <div class="boat-skipper-name">
+                    <img class="boat-skipper-country" src="{baseUrl}/assets/flags/{data.country}.svg" />
+                    <span>{data.skipper}</span>
+                    {#if data.foiler}
+                    <img class="boat-foiler-icon" src="{baseUrl}/assets/foiler_red.png" />
+                    {/if}
+                </div>
+                <div class="boat-name">
+                    {data.boat}
+                </div>
+                <div class="boat-data">
+                    {data.heading}° / {data.last_report_speed.toFixed(2)} {translations[lang].knots_short}
+                </div>
+            </div>
+        </div>
+    {/each}
+</section>
+{:else}
 <section class="plugin__content">
     <div class="mb-30 centered">
         <div
@@ -59,12 +92,12 @@
         </div>
     {/each}    
 </section>
-
+{/if}
 
 <script lang="ts">
 import bcast from '@windy/broadcast';
 import { map } from '@windy/map';
-//import { isMobileOrTablet } from '@windy/rootScope';
+import { isMobileOrTablet } from '@windy/rootScope';
 import { getLatLonInterpolator } from '@windy/interpolator';
 import store from '@windy/store';
 import { wind2obj } from '@windy/utils';
@@ -72,7 +105,9 @@ import { onMount, onDestroy } from 'svelte';
 import type { Boat, BoatResult } from './boatTypes';
 import type { CoordsInterpolationFun } from '@windy/interpolator';
 
-const baseUrl = "https://localhost:9999";
+const baseUrl = "https://192.168.1.194:9999";
+const dataUrl = `${baseUrl}/data.json`; // local dev
+//const dataUrl = 'https://raw.githubusercontent.com/dev-seb/windy-plugin-vg2024/refs/heads/main/data/data.json'
 
 const linesColors: Map<L.Polyline, string> = new Map();
 const boats: Map<string, Boat> = new Map();
@@ -315,7 +350,7 @@ const displayPopup = (key: string) => {
             </div>
         `;
 
-        openedPopup = new L.Popup({ autoClose: true, closeOnClick: false, offset: [0, -5]})
+        openedPopup = new L.Popup({ autoClose: true, closeOnClick: isMobileOrTablet, offset: [0, -5]})
             .setLatLng(latestPosition)
             .setContent(html)
             .openOn(map);
@@ -323,7 +358,7 @@ const displayPopup = (key: string) => {
 };
 
 const loadResults = () => {
-    fetch('https://raw.githubusercontent.com/dev-seb/windy-plugin-vg2024/refs/heads/main/data/data.json')
+    fetch(dataUrl)
         .then(response => response.json())
         .then(result => result.result)
         .then((results: Record<string, BoatResult>) => {
@@ -519,11 +554,13 @@ onDestroy(() => {
     line-height: 16px;
 }
 
-.boat-popup {
-
+.plugin__content-mobile {
+    overflow-x: scroll;
+    display: flex;
+    flex-direction: row;
 }
 
-.boat-popup .leaflet-popup-tip-container{
-    display: none;
+.plugin__content-mobile .boat {
+    margin-right: 10px;
 }
 </style>

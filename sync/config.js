@@ -20,7 +20,7 @@ export const reportsHistoryPosreportDir = `${process.cwd()}/sync/ftp/reports/his
 export const boatsConfig = {
     BEL207: {
         skipper: 'Denis Van Weynbergh',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/denis-van-weynbergh',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/denis-van-weynbergh',
         foiler: false,
         color: '#F3F4F8',
         colorFoil: '#DC6F3D',
@@ -29,7 +29,7 @@ export const boatsConfig = {
     },
     CHN5: {
         skipper: 'Jingkun Xu',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/jingkun-xu',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/jingkun-xu',
         foiler: true,
         color: '#D63232',
         colorFoil: '#DC6F3D',
@@ -38,7 +38,7 @@ export const boatsConfig = {
     },
     FRA01: {
         skipper: 'Violette Dorange',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/violette-dorange',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/violette-dorange',
         foiler: false,
         color: '#FFFFFF',
         colorFoil: '#DC6F3D',
@@ -47,7 +47,7 @@ export const boatsConfig = {
     },
     FRA08: {
         skipper: 'Justine Mettraux',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/justine-mettraux',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/justine-mettraux',
         foiler: true,
         color: '#0462A3',
         colorFoil: '#DC6F3D',
@@ -56,7 +56,7 @@ export const boatsConfig = {
     },
     FRA09: {
         skipper: 'Benjamin Dutreux',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/benjamin-dutreux',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/benjamin-dutreux',
         foiler: true,
         color: '#2B2B2B',
         colorFoil: '#DC6F3D',
@@ -65,7 +65,7 @@ export const boatsConfig = {
     },
     FRA10: {
         skipper: 'Romain Attanasio',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/romain-attanasio',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/romain-attanasio',
         foiler: true,
         color: '#2A528C',
         colorFoil: '#DC6F3D',
@@ -74,7 +74,7 @@ export const boatsConfig = {
     },
     FRA100: {
         skipper: 'Sam Goodchild',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/sam-goodchild',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/sam-goodchild',
         foiler: true,
         color: '#4BA8A8',
         colorFoil: '#DC6F3D',
@@ -83,7 +83,7 @@ export const boatsConfig = {
     },
     FRA1000: {
         skipper: 'Tanguy Le Turquais',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/tanguy-le-turquais',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/tanguy-le-turquais',
         foiler: false,
         color: '#8E214B',
         colorFoil: '#DC6F3D',
@@ -92,7 +92,7 @@ export const boatsConfig = {
     },
     FRA109: {
         skipper: 'Samantha Davies',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/samantha-davies',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/samantha-davies',
         foiler: true,
         color: '#8C1515',
         colorFoil: '#DC6F3D',
@@ -101,7 +101,7 @@ export const boatsConfig = {
     },
     FRA112: {
         skipper: 'Sébastien Simon',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/sebastien-simon',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/sebastien-simon',
         foiler: true,
         color: '#12329A',
         colorFoil: '#FFFFFF',
@@ -110,7 +110,7 @@ export const boatsConfig = {
     },
     FRA13: {
         skipper: 'Damien Seguin',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/damien-seguin',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/damien-seguin',
         foiler: true,
         color: '#AD182D',
         colorFoil: '#DC6F3D',
@@ -119,7 +119,7 @@ export const boatsConfig = {
     },
     FRA14: {
         skipper: 'Arnaud Boissières',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/arnaud-boissieres',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/arnaud-boissieres',
         foiler: true,
         color: '#FED13F',
         colorFoil: '#DC6F3D',
@@ -128,7 +128,7 @@ export const boatsConfig = {
     },
     FRA1461: {
         skipper: 'Antoine Cornic',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/antoine-cornic',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/antoine-cornic',
         foiler: false,
         color: '#385F89',
         colorFoil: '#DC6F3D',
@@ -137,7 +137,7 @@ export const boatsConfig = {
     },
     FRA15: {
         skipper: 'Clarisse Crémer',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/clarisse-cremer',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/clarisse-cremer',
         foiler: true,
         color: '#001022',
         colorFoil: '#DC6F3D',
@@ -146,7 +146,7 @@ export const boatsConfig = {
     },
     FRA17: {
         skipper: 'Yannick Bestaven',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/yannick-bestaven',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/yannick-bestaven',
         foiler: true,
         color: '#181A27',
         colorFoil: '#DC6F3D',
@@ -155,7 +155,7 @@ export const boatsConfig = {
     },
     FRA172: {
         skipper: 'Louis Duc',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/louis-duc',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/louis-duc',
         foiler: false,
         color: '#980D65',
         colorFoil: '#DC6F3D',
@@ -164,7 +164,7 @@ export const boatsConfig = {
     },
     FRA18: {
         skipper: 'Louis Burton',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/louis-burton',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/louis-burton',
         foiler: true,
         color: '#000000',
         colorFoil: '#DC6F3D',
@@ -173,7 +173,7 @@ export const boatsConfig = {
     },
     FRA2030: {
         skipper: 'Paul Meilhat',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/paul-meilhat',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/paul-meilhat',
         foiler: true,
         color: '#8BABC0',
         colorFoil: '#DC6F3D',
@@ -182,7 +182,7 @@ export const boatsConfig = {
     },
     FRA22: {
         skipper: 'Guirec Soudée',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/guirec-soudee',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/guirec-soudee',
         foiler: false,
         color: '#FFFFFF',
         colorFoil: '#DC6F3D',
@@ -191,7 +191,7 @@ export const boatsConfig = {
     },
     FRA24: {
         skipper: 'Yoann Richomme',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/yoann-richomme',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/yoann-richomme',
         foiler: true,
         color: '#2535E0',
         colorFoil: '#DC6F3D',
@@ -200,7 +200,7 @@ export const boatsConfig = {
     },
     FRA27: {
         skipper: 'Isabelle Joschke',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/isabelle-joschke',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/isabelle-joschke',
         foiler: true,
         color: '#D3D3D3',
         colorFoil: '#DC6F3D',
@@ -209,7 +209,7 @@ export const boatsConfig = {
     },
     FRA29: {
         skipper: 'Jean Le Cam',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/jean-le-cam',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/jean-le-cam',
         foiler: false,
         color: '#161616',
         colorFoil: '#DC6F3D',
@@ -218,7 +218,7 @@ export const boatsConfig = {
     },
     FRA3: {
         skipper: 'Jérémie Beyou',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/jeremie-beyou',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/jeremie-beyou',
         foiler: true,
         color: '#181A27',
         colorFoil: '#DC6F3D',
@@ -227,7 +227,7 @@ export const boatsConfig = {
     },
     FRA30: {
         skipper: 'Benjamin Ferré',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/benjamin-ferre',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/benjamin-ferre',
         foiler: false,
         color: '#FFFFFF',
         colorFoil: '#DC6F3D',
@@ -236,7 +236,7 @@ export const boatsConfig = {
     },
     FRA5: {
         skipper: 'Éric Bellion',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/eric-bellion',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/eric-bellion',
         foiler: false,
         color: '#2816B2',
         colorFoil: '#DC6F3D',
@@ -245,7 +245,7 @@ export const boatsConfig = {
     },
     FRA53: {
         skipper: 'Maxime Sorel',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/maxime-sorel',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/maxime-sorel',
         foiler: true,
         color: '#545454',
         colorFoil: '#DC6F3D',
@@ -254,7 +254,7 @@ export const boatsConfig = {
     },
     FRA56: {
         skipper: 'Fabrice Amedeo',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/fabrice-amedeo',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/fabrice-amedeo',
         foiler: false,
         color: '#1D1E1C',
         colorFoil: '#DC6F3D',
@@ -263,7 +263,7 @@ export const boatsConfig = {
     },
     FRA59: {
         skipper: 'Thomas Ruyant',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/thomas-ruyant',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/thomas-ruyant',
         foiler: true,
         color: '#4BA7D3',
         colorFoil: '#DC6F3D',
@@ -272,7 +272,7 @@ export const boatsConfig = {
     },
     FRA71: {
         skipper: 'Manuel Cousin',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/manuel-cousin',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/manuel-cousin',
         foiler: false,
         color: '#0F1E3F',
         colorFoil: '#DC6F3D',
@@ -281,7 +281,7 @@ export const boatsConfig = {
     },
     FRA79: {
         skipper: 'Charlie Dalin',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/charlie-dalin',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/charlie-dalin',
         foiler: true,
         color: '#265BB2',
         colorFoil: '#DC6F3D',
@@ -290,7 +290,7 @@ export const boatsConfig = {
     },
     FRA83: {
         skipper: 'Sébastien Marsset',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/sebastien-marsset',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/sebastien-marsset',
         foiler: false,
         color: '#C55327',
         colorFoil: '#DC6F3D',
@@ -299,7 +299,7 @@ export const boatsConfig = {
     },
     FRA85: {
         skipper: 'Nicolas Lunven',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/nicolas-lunven',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/nicolas-lunven',
         foiler: true,
         color: '#98B747',
         colorFoil: '#DC6F3D',
@@ -308,7 +308,7 @@ export const boatsConfig = {
     },
     GBR777: {
         skipper: 'Pip Hare',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/pip-hare',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/pip-hare',
         foiler: true,
         color: '#3E50C2',
         colorFoil: '#DC6F3D',
@@ -317,7 +317,7 @@ export const boatsConfig = {
     },
     HUN23: {
         skipper: 'Szabolcs Weöres',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/szabolcs-weoeres',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/szabolcs-weoeres',
         foiler: false,
         color: '#64BF71',
         colorFoil: '#DC6F3D',
@@ -326,7 +326,7 @@ export const boatsConfig = {
     },
     ITA34: {
         skipper: 'Giancarlo Pedote',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/giancarlo-pedote',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/giancarlo-pedote',
         foiler: true,
         color: '#FFFFFF',
         colorFoil: '#DC6F3D',
@@ -335,7 +335,7 @@ export const boatsConfig = {
     },
     JPN11: {
         skipper: 'Kojiro Shiraishi',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/kojiro-shiraishi',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/kojiro-shiraishi',
         foiler: true,
         color: '#D0D0D0',
         colorFoil: '#DC6F3D',
@@ -344,7 +344,7 @@ export const boatsConfig = {
     },
     MON1297: {
         skipper: 'Boris Herrmann',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/boris-herrmann',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/boris-herrmann',
         foiler: true,
         color: '#A9A5A4',
         colorFoil: '#DC6F3D',
@@ -353,7 +353,7 @@ export const boatsConfig = {
     },
     NZL64: {
         skipper: 'Conrad Colman',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/conrad-colman',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/conrad-colman',
         foiler: false,
         color: '#F72E1A',
         colorFoil: '#DC6F3D',
@@ -362,7 +362,7 @@ export const boatsConfig = {
     },
     SUI49: {
         skipper: 'Oliver Heer',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/oliver-heer',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/oliver-heer',
         foiler: false,
         color: '#F3F4F8',
         colorFoil: '#DC6F3D',
@@ -371,7 +371,7 @@ export const boatsConfig = {
     },
     SUI7: {
         skipper: 'Alan Roura',
-        skipperLink: 'https://www.vendeeglobe.org//skippers/alan-roura',
+        skipperLink: 'https://www.vendeeglobe.org/skippers/alan-roura',
         foiler: true,
         color: '#1A1A1A',
         colorFoil: '#DC6F3D',
