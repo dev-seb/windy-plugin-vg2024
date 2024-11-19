@@ -323,7 +323,7 @@ const displayPopup = (key: string) => {
 };
 
 const loadResults = () => {
-    fetch('https://localhost:9999/data.json') // TODO: get file from github
+    fetch('https://raw.githubusercontent.com/dev-seb/windy-plugin-vg2024/refs/heads/main/data/data.json')
         .then(response => response.json())
         .then(result => result.result)
         .then((results: Record<string, BoatResult>) => {
