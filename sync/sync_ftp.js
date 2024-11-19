@@ -21,14 +21,14 @@ const syncFtp = async () => {
         const excelFiles = await client.list(remoteExcelDir);
         for (const excelFile of excelFiles) {
             const localFilePath = path.join(reportsHistoryExcelDir, excelFile.name);
-            if (fs.existsSync(path.dirname(localFilePath))) {
+            if (!fs.existsSync(path.dirname(localFilePath))) {
                 fs.mkdirSync(path.dirname(localFilePath), { recursive: true });
             }
             if (!fs.existsSync(localFilePath)) {
                 const remoteFilePath = path.join(remoteExcelDir, excelFile.name);
                 console.log(`download ${remoteFilePath} to ${localFilePath}`);
                 const response = await client.downloadTo(localFilePath, remoteFilePath);
-                console.log(response);
+                console.log(response.message);
             }
         }
     } catch (err) {
