@@ -105,9 +105,9 @@ import { onMount, onDestroy } from 'svelte';
 import type { Boat, BoatResult } from './boatTypes';
 import type { CoordsInterpolationFun } from '@windy/interpolator';
 
-const baseUrl = "https://192.168.1.194:9999";
-const dataUrl = `${baseUrl}/data.json`; // local dev
-//const dataUrl = 'https://raw.githubusercontent.com/dev-seb/windy-plugin-vg2024/refs/heads/main/data/data.json'
+const baseUrl = "https://127.0.0.1:9999";
+//const dataUrl = `${baseUrl}/data.json`; // local dev
+const dataUrl = 'https://raw.githubusercontent.com/dev-seb/windy-plugin-vg2024/refs/heads/main/data/data.json'
 
 const linesColors: Map<L.Polyline, string> = new Map();
 const boats: Map<string, Boat> = new Map();
@@ -120,8 +120,7 @@ let listOfAborts: Boat[] = [];
 let openedPopup: L.Popup | null = null;
 let lastRanking = "";
 
-//const lang = navigator.language.substring(0,2) === "fr" ? "fr" : "en";
-const lang = "en";
+const lang = navigator.language.substring(0,2) === "fr" ? "fr" : "en";
 const translations = {
     en: {
         aborts: "Aborts",
