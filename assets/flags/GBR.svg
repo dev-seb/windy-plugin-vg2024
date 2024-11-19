@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="flag_en" xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 60 40">
+	<clipPath id="s">
+		<path d="M0,0 v40 h60 v-40 z" />
+	</clipPath>
+	<g clip-path="url(#s)">
+		<path d="M0,0 v40 h60 v-40 z" fill="#012169" />
+		<path d="M0,0 L60,40 M60,0 L0,40" stroke="#fff" stroke-width="6" />
+		<path d="M-3,-1 l30 20 M-2 42 l30-20 M60.5 -1 l-30 20 M61.5 40 l-30-20" stroke="#C8102E" stroke-width="2" />
+		<path d="M30,0 v40 M0,20 h60" stroke="#fff" stroke-width="10" />
+		<path d="M30,0 v40 M0,20 h60" stroke="#C8102E" stroke-width="6" />
+	</g>
+</svg>

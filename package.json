@@ -1,0 +1,41 @@
+{
+    "name": "windy-plugin-vg2024",
+    "version": "1.0.0",
+    "description": "Vendee Globe 2024 Tracking",
+    "main": "dist/plugin.min.js",
+    "type": "module",
+    "scripts": {
+        "build": "rimraf dist && SERVE=false rollup -c",
+        "start": "rollup -w -c",
+        "sync:ftp": "node sync/sync_ftp.js",
+        "sync:data": "node sync/sync_data.js",
+        "format": "prettier --write **/*.{ts,js}",
+        "lint": "eslint ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/dev-seb/windy-plugin-vg2024.git"
+    },
+    "keywords": [
+        "windy",
+        "windy.com",
+        "plugins"
+    ],
+    "author": "Sébastien Biziou",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/dev-seb/windy-plugin-vg2024/issues"
+    },
+    "dependencies": {
+        "@windycom/plugin-devtools": "^2.0.0"
+    },
+    "devDependencies": {
+        "basic-ftp": "^5.0.5",
+        "dotenv": "^16.4.5",
+        "prettier": "^3.3.3",
+        "rimraf": "^6.0.1",
+        "rollup-plugin-copy": "^3.5.0",
+        "ts-node": "^10.9.2",
+        "xlsx": "^0.18.5"
+    }
+}
