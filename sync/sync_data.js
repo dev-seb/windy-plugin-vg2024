@@ -187,15 +187,15 @@ const getExcelRow = row => {
         last_30mn_vmg = parseFloat(cols[8]);
         last_30mn_distance = parseFloat(cols[9]);
 
-        last_24h_heading = parseInt(cols[10]);
-        last_24h_speed = parseFloat(cols[11]);
-        last_24h_vmg = parseFloat(cols[12]);
-        last_24h_distance = parseFloat(cols[13]);
+        last_report_heading = parseInt(cols[10]);
+        last_report_speed = parseFloat(cols[11]);
+        last_report_vmg = parseFloat(cols[12]);
+        last_report_distance = parseFloat(cols[13]);
 
-        last_report_heading = parseInt(cols[14]);
-        last_report_speed = parseFloat(cols[15]);
-        last_report_vmg = parseFloat(cols[16]);
-        last_report_distance = parseFloat(cols[17]);
+        last_24h_heading = parseInt(cols[14]);
+        last_24h_speed = parseFloat(cols[15]);
+        last_24h_vmg = parseFloat(cols[16]);
+        last_24h_distance = parseFloat(cols[17]);
 
         dtf = parseFloat(cols[18]);
         dtl = parseFloat(cols[19]);
